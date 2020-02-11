@@ -1,0 +1,1892 @@
+"salesperson","year","month","dept","location","units_sold","order_amount","cost"
+"Betsy",2004,"April","lip gloss","south",8,288,227
+"Hallagan",2004,"March","foundation","midwest",151,448,320
+"Ashley",2005,"February","lipstick","midwest",416,402,347
+"Hallagan",2006,"May","lip gloss","west",202,650,561
+"Zaret",2004,"June","lip gloss","midwest",167,347,219
+"Colleen",2005,"November","eye liner","midwest",390,485,392
+"Cristina",2004,"March","eye liner","midwest",207,500,427
+"Colleen",2006,"December","lip gloss","midwest",134,536,426
+"Ashley",2006,"November","eye liner","south",226,499,402
+"Betsy",2006,"August","lip gloss","east",188,436,314
+"Ashley",2004,"November","mascara","east",295,594,495
+"Ashley",2004,"November","lip gloss","west",154,457,373
+"Emilee",2005,"August","lip gloss","west",181,454,363
+"Hallagan",2005,"January","eye liner","south",380,422,335
+"Zaret",2006,"September","foundation","east",85,537,388
+"Emilee",2004,"April","mascara","east",125,393,274
+"Colleen",2006,"April","mascara","south",59,453,373
+"Jen",2005,"November","lip gloss","midwest",356,489,391
+"Jen",2004,"November","eye liner","south",15,321,225
+"Zaret",2005,"November","lip gloss","midwest",292,622,541
+"Zaret",2006,"June","mascara","west",183,552,443
+"Betsy",2004,"September","eye liner","midwest",222,565,495
+"Colleen",2006,"February","mascara","midwest",292,625,488
+"Emilee",2006,"December","lip gloss","west",185,378,273
+"Jen",2004,"April","lipstick","midwest",314,592,544
+"Cristina",2005,"November","foundation","midwest",126,415,301
+"Cristina",2006,"March","lip gloss","midwest",252,567,422
+"Cici",2004,"June","mascara","west",260,475,369
+"Zaret",2006,"September","mascara","west",222,634,568
+"Cici",2006,"February","foundation","west",137,392,264
+"Hallagan",2006,"June","foundation","south",219,501,352
+"Emilee",2004,"February","eye liner","south",208,581,477
+"Emilee",2005,"April","mascara","midwest",237,571,418
+"Betsy",2004,"November","foundation","west",219,522,416
+"Colleen",2004,"June","lip gloss","midwest",173,395,325
+"Emilee",2006,"September","lip gloss","east",162,264,187
+"Ashley",2005,"December","mascara","west",156,389,269
+"Zaret",2004,"September","eye liner","west",107,550,468
+"Emilee",2005,"May","eye liner","south",201,481,373
+"Betsy",2004,"November","foundation","west",233,498,392
+"Zaret",2004,"November","lip gloss","west",113,528,368
+"Zaret",2005,"June","eye liner","midwest",84,437,350
+"Hallagan",2004,"November","eye liner","midwest",208,553,460
+"Cici",2005,"July","eye liner","midwest",195,350,259
+"Cristina",2005,"April","lip gloss","west",109,365,299
+"Jen",2006,"May","lip gloss","west",331,516,417
+"Cristina",2004,"April","lip gloss","south",317,519,430
+"Cici",2004,"June","mascara","midwest",180,430,314
+"Cristina",2004,"April","foundation","east",144,376,274
+"Cristina",2005,"December","lip gloss","midwest",164,470,361
+"Jen",2004,"November","mascara","west",215,519,470
+"Colleen",2005,"November","foundation","midwest",221,544,431
+"Emilee",2004,"August","foundation","south",494,844,683
+"Cici",2004,"December","eye liner","west",292,571,488
+"Emilee",2006,"May","eye liner","south",180,535,410
+"Ashley",2005,"April","lip gloss","midwest",131,469,351
+"Betsy",2005,"November","mascara","south",50,368,232
+"Hallagan",2005,"November","foundation","south",67,368,267
+"Zaret",2006,"July","lip gloss","west",153,480,439
+"Cristina",2005,"January","eye liner","east",244,346,318
+"Emilee",2004,"December","eye liner","west",179,287,227
+"Ashley",2005,"December","lipstick","west",95,374,340
+"Zaret",2004,"June","lipstick","south",107,353,259
+"Cristina",2005,"June","foundation","south",88,414,329
+"Ashley",2004,"April","mascara","west",328,587,504
+"Jen",2005,"January","eye liner","midwest",114,407,335
+"Colleen",2006,"March","foundation","west",213,634,530
+"Cristina",2004,"January","mascara","east",153,530,377
+"Emilee",2006,"December","foundation","south",77,503,391
+"Cristina",2005,"February","mascara","south",88,436,333
+"Jen",2005,"March","mascara","west",234,387,326
+"Jen",2006,"January","lip gloss","east",293,669,516
+"Colleen",2005,"July","foundation","midwest",158,528,418
+"Cici",2004,"November","foundation","west",169,407,316
+"Ashley",2006,"October","eye liner","west",175,366,238
+"Cici",2004,"November","foundation","south",195,414,344
+"Jen",2005,"August","eye liner","east",139,488,405
+"Emilee",2005,"August","eye liner","east",127,512,385
+"Zaret",2005,"December","eye liner","south",285,506,417
+"Cici",2005,"March","foundation","midwest",226,461,327
+"Cici",2006,"June","lipstick","south",116,397,286
+"Betsy",2006,"November","eye liner","south",438,563,443
+"Jen",2004,"May","mascara","midwest",212,579,457
+"Zaret",2004,"April","foundation","west",73,472,335
+"Colleen",2006,"May","eye liner","midwest",221,580,471
+"Emilee",2005,"August","foundation","south",236,533,469
+"Jen",2006,"December","lip gloss","west",93,465,378
+"Cristina",2006,"December","foundation","west",161,310,290
+"Jen",2004,"December","lip gloss","west",81,419,360
+"Colleen",2006,"November","lip gloss","south",204,584,467
+"Betsy",2005,"October","eye liner","west",80,424,284
+"Zaret",2004,"January","foundation","west",210,476,376
+"Cristina",2004,"August","foundation","south",91,446,354
+"Hallagan",2005,"December","foundation","west",263,504,415
+"Jen",2006,"March","lipstick","west",25,367,300
+"Cristina",2004,"September","lipstick","midwest",397,669,573
+"Jen",2005,"March","foundation","south",94,391,286
+"Emilee",2004,"March","lip gloss","midwest",229,475,376
+"Cici",2005,"August","lip gloss","east",58,460,446
+"Ashley",2006,"July","foundation","south",73,531,427
+"Ashley",2005,"March","mascara","midwest",400,573,506
+"Cici",2004,"November","mascara","west",286,718,623
+"Cici",2004,"November","mascara","south",231,649,557
+"Emilee",2006,"December","mascara","west",473,550,498
+"Betsy",2005,"November","lipstick","east",116,376,252
+"Emilee",2006,"January","foundation","south",80,510,370
+"Zaret",2006,"June","eye liner","east",49,425,314
+"Zaret",2006,"June","foundation","midwest",42,606,500
+"Cici",2005,"May","foundation","midwest",134,445,365
+"Colleen",2006,"May","eye liner","east",181,470,411
+"Hallagan",2005,"October","mascara","south",207,630,538
+"Zaret",2006,"March","foundation","south",206,477,399
+"Jen",2006,"July","mascara","west",306,534,431
+"Zaret",2006,"April","eye liner","south",83,481,355
+"Ashley",2006,"January","eye liner","west",50,453,332
+"Hallagan",2005,"November","lip gloss","midwest",113,629,565
+"Zaret",2004,"April","eye liner","west",237,503,429
+"Emilee",2005,"July","lipstick","midwest",339,519,474
+"Cici",2005,"May","lip gloss","south",45,484,422
+"Zaret",2006,"February","mascara","west",167,451,362
+"Ashley",2006,"November","foundation","west",269,412,322
+"Jen",2004,"November","mascara","east",86,371,280
+"Cici",2004,"March","lipstick","midwest",136,514,374
+"Betsy",2004,"July","mascara","east",174,501,338
+"Cristina",2006,"December","lip gloss","south",156,317,279
+"Cristina",2005,"February","eye liner","west",253,522,430
+"Colleen",2005,"March","lip gloss","west",105,442,326
+"Emilee",2004,"October","foundation","west",107,464,350
+"Colleen",2005,"November","mascara","west",207,491,398
+"Betsy",2005,"May","lipstick","south",137,586,446
+"Jen",2004,"November","eye liner","east",74,420,286
+"Jen",2006,"November","eye liner","south",179,478,376
+"Betsy",2006,"February","lip gloss","west",141,484,368
+"Colleen",2005,"February","foundation","south",218,617,510
+"Ashley",2006,"October","mascara","south",69,396,277
+"Cici",2004,"November","mascara","west",320,481,385
+"Emilee",2005,"July","eye liner","west",257,551,423
+"Emilee",2005,"December","lipstick","west",115,434,383
+"Ashley",2006,"November","lipstick","midwest",152,462,366
+"Cici",2005,"March","lipstick","east",103,360,216
+"Cristina",2006,"March","foundation","south",204,693,597
+"Emilee",2005,"July","lip gloss","west",85,338,272
+"Zaret",2004,"September","lipstick","midwest",88,514,386
+"Cici",2004,"October","lipstick","west",484,620,484
+"Jen",2004,"August","lipstick","south",122,498,371
+"Betsy",2005,"February","mascara","south",53,505,420
+"Emilee",2005,"November","foundation","west",139,491,375
+"Emilee",2005,"November","lip gloss","south",97,437,328
+"Jen",2004,"May","foundation","midwest",17,407,351
+"Emilee",2005,"January","lip gloss","south",139,354,223
+"Cici",2005,"January","lip gloss","south",128,478,347
+"Cristina",2004,"February","lip gloss","midwest",146,355,256
+"Hallagan",2005,"February","mascara","south",149,483,375
+"Cici",2005,"August","foundation","south",139,402,256
+"Hallagan",2006,"October","eye liner","east",98,391,246
+"Hallagan",2005,"December","foundation","east",229,533,425
+"Emilee",2005,"March","eye liner","midwest",189,375,258
+"Betsy",2004,"March","lip gloss","west",273,575,436
+"Cristina",2006,"May","lip gloss","south",111,422,362
+"Ashley",2004,"February","lip gloss","east",201,499,442
+"Jen",2006,"June","lip gloss","south",115,412,316
+"Betsy",2005,"December","foundation","west",287,347,211
+"Colleen",2004,"February","foundation","south",151,455,371
+"Emilee",2006,"July","foundation","south",79,413,333
+"Jen",2004,"December","lipstick","west",68,287,191
+"Emilee",2004,"November","eye liner","south",279,503,437
+"Betsy",2005,"November","eye liner","south",146,488,402
+"Cici",2004,"July","mascara","west",183,388,278
+"Ashley",2005,"December","mascara","east",256,536,438
+"Hallagan",2005,"September","foundation","south",240,503,426
+"Colleen",2004,"May","lipstick","east",257,644,539
+"Hallagan",2005,"October","lipstick","midwest",52,499,442
+"Ashley",2004,"November","lip gloss","midwest",311,446,400
+"Hallagan",2004,"November","foundation","west",49,482,318
+"Jen",2004,"August","eye liner","midwest",268,566,477
+"Emilee",2005,"July","mascara","south",172,481,422
+"Betsy",2006,"November","mascara","east",373,454,438
+"Colleen",2006,"March","foundation","south",56,376,306
+"Jen",2004,"November","mascara","west",131,393,332
+"Colleen",2005,"November","foundation","west",192,475,367
+"Cici",2006,"October","lip gloss","south",433,619,531
+"Jen",2004,"February","mascara","midwest",117,420,334
+"Cristina",2005,"October","foundation","west",79,448,353
+"Cristina",2006,"January","lipstick","midwest",179,307,224
+"Emilee",2006,"January","eye liner","west",27,453,372
+"Hallagan",2004,"December","lipstick","midwest",109,477,373
+"Jen",2005,"March","eye liner","east",205,642,532
+"Colleen",2004,"February","mascara","east",33,414,253
+"Colleen",2006,"May","mascara","west",134,505,425
+"Cristina",2006,"November","mascara","west",325,555,439
+"Cristina",2006,"March","eye liner","south",37,483,372
+"Cici",2005,"June","eye liner","east",146,539,425
+"Hallagan",2005,"December","foundation","south",82,286,200
+"Cici",2006,"December","lip gloss","west",157,608,510
+"Cici",2006,"November","lip gloss","west",127,309,209
+"Jen",2006,"April","foundation","west",91,404,277
+"Hallagan",2006,"December","lipstick","midwest",176,405,362
+"Colleen",2004,"February","mascara","east",284,509,450
+"Jen",2006,"July","eye liner","west",338,511,454
+"Jen",2004,"April","eye liner","midwest",369,573,433
+"Betsy",2006,"March","lip gloss","midwest",306,476,411
+"Jen",2006,"April","lip gloss","south",65,391,361
+"Colleen",2006,"May","foundation","east",169,503,376
+"Jen",2005,"November","lip gloss","west",62,455,340
+"Zaret",2006,"February","eye liner","west",462,727,596
+"Betsy",2005,"January","lipstick","east",131,415,289
+"Hallagan",2006,"February","mascara","east",297,491,401
+"Cici",2004,"September","foundation","midwest",393,456,334
+"Cici",2005,"March","mascara","midwest",146,416,297
+"Colleen",2005,"February","foundation","east",331,584,472
+"Ashley",2004,"January","mascara","west",197,507,399
+"Cristina",2006,"September","foundation","midwest",143,467,359
+"Ashley",2004,"July","mascara","west",40,538,415
+"Betsy",2004,"December","foundation","west",175,481,399
+"Cristina",2004,"October","eye liner","west",35,457,358
+"Zaret",2004,"February","lipstick","west",269,658,589
+"Jen",2004,"June","lip gloss","south",171,399,314
+"Hallagan",2006,"January","eye liner","south",71,341,312
+"Betsy",2006,"February","foundation","south",113,455,363
+"Cici",2004,"April","lip gloss","west",206,498,422
+"Hallagan",2006,"November","lip gloss","west",140,325,161
+"Zaret",2004,"March","lip gloss","west",50,400,284
+"Ashley",2004,"June","lip gloss","midwest",100,491,426
+"Emilee",2004,"August","mascara","midwest",196,554,458
+"Emilee",2004,"November","mascara","east",191,500,392
+"Jen",2004,"December","foundation","midwest",290,522,416
+"Cici",2006,"November","lip gloss","south",235,435,336
+"Cristina",2004,"September","eye liner","east",217,409,322
+"Ashley",2005,"January","lip gloss","west",194,312,217
+"Cici",2006,"October","lip gloss","east",103,518,430
+"Emilee",2005,"November","lip gloss","south",148,473,353
+"Emilee",2005,"November","mascara","midwest",142,545,476
+"Emilee",2005,"April","eye liner","midwest",51,528,416
+"Colleen",2004,"July","lipstick","south",271,533,406
+"Cristina",2005,"February","eye liner","east",530,545,457
+"Cici",2004,"July","mascara","east",193,357,216
+"Hallagan",2006,"December","mascara","west",162,526,377
+"Betsy",2006,"November","mascara","east",306,660,578
+"Zaret",2005,"August","mascara","west",146,524,382
+"Betsy",2005,"March","mascara","east",319,563,501
+"Colleen",2006,"November","mascara","east",190,465,310
+"Colleen",2004,"May","mascara","west",104,435,344
+"Ashley",2005,"April","eye liner","east",154,435,339
+"Ashley",2004,"November","foundation","east",37,368,239
+"Emilee",2005,"March","eye liner","east",123,431,358
+"Ashley",2004,"April","foundation","west",165,496,379
+"Hallagan",2004,"February","eye liner","south",215,653,573
+"Hallagan",2005,"July","mascara","east",223,387,295
+"Emilee",2005,"November","eye liner","west",208,495,374
+"Colleen",2005,"February","lipstick","south",207,513,389
+"Zaret",2004,"January","eye liner","midwest",373,634,505
+"Cici",2006,"July","mascara","south",120,507,441
+"Jen",2006,"August","foundation","midwest",251,403,317
+"Zaret",2006,"November","lip gloss","midwest",387,474,382
+"Colleen",2005,"May","foundation","west",91,500,401
+"Hallagan",2005,"July","eye liner","south",782,578,431
+"Colleen",2005,"June","lip gloss","south",61,348,283
+"Cristina",2005,"July","foundation","south",206,355,321
+"Cristina",2004,"November","eye liner","east",47,349,243
+"Cristina",2005,"June","foundation","east",253,547,408
+"Zaret",2004,"June","foundation","south",173,393,263
+"Hallagan",2005,"May","eye liner","east",221,362,267
+"Cici",2006,"May","lip gloss","midwest",222,480,382
+"Ashley",2006,"June","lipstick","south",50,470,365
+"Cici",2005,"November","foundation","midwest",197,433,348
+"Hallagan",2005,"December","eye liner","west",270,395,290
+"Cici",2005,"August","mascara","midwest",179,557,435
+"Hallagan",2005,"November","eye liner","west",86,577,470
+"Betsy",2005,"March","eye liner","west",377,370,269
+"Cici",2004,"May","foundation","east",256,562,449
+"Jen",2006,"October","lip gloss","east",111,438,341
+"Cristina",2005,"July","eye liner","east",226,762,644
+"Hallagan",2004,"December","eye liner","east",175,472,390
+"Emilee",2004,"November","lipstick","west",406,650,541
+"Emilee",2004,"November","lip gloss","west",416,386,274
+"Jen",2006,"August","mascara","midwest",125,413,301
+"Jen",2005,"March","foundation","south",230,451,384
+"Ashley",2006,"December","mascara","south",329,461,388
+"Ashley",2005,"September","lipstick","east",155,450,345
+"Jen",2005,"November","lipstick","west",302,506,416
+"Emilee",2005,"December","foundation","west",160,412,276
+"Zaret",2006,"November","mascara","midwest",114,382,271
+"Ashley",2004,"August","mascara","south",28,394,315
+"Betsy",2006,"August","mascara","midwest",361,531,386
+"Betsy",2004,"February","eye liner","midwest",121,475,374
+"Betsy",2006,"December","mascara","west",276,321,218
+"Jen",2005,"November","foundation","midwest",201,506,397
+"Betsy",2006,"March","foundation","east",129,365,271
+"Zaret",2004,"May","lipstick","south",200,399,284
+"Hallagan",2005,"November","lip gloss","south",21,446,321
+"Zaret",2004,"June","eye liner","south",123,379,278
+"Zaret",2005,"April","lip gloss","east",427,450,338
+"Jen",2006,"November","foundation","south",330,498,404
+"Colleen",2004,"May","foundation","midwest",98,483,425
+"Cici",2006,"May","mascara","midwest",53,464,305
+"Hallagan",2005,"February","lipstick","west",70,450,327
+"Zaret",2005,"February","foundation","east",153,487,382
+"Zaret",2005,"August","foundation","midwest",151,493,395
+"Cici",2004,"May","lip gloss","east",214,657,532
+"Cici",2004,"November","eye liner","midwest",140,456,371
+"Zaret",2005,"November","lip gloss","west",306,434,349
+"Betsy",2004,"February","lip gloss","east",292,534,442
+"Zaret",2004,"July","eye liner","south",22,518,413
+"Colleen",2005,"December","eye liner","midwest",186,447,358
+"Cici",2004,"June","foundation","midwest",158,458,333
+"Betsy",2005,"January","foundation","south",141,368,309
+"Cristina",2005,"November","mascara","east",203,501,377
+"Cristina",2004,"January","eye liner","east",333,517,419
+"Jen",2004,"October","eye liner","east",154,329,261
+"Ashley",2004,"November","foundation","south",123,415,328
+"Jen",2004,"December","eye liner","west",232,497,407
+"Hallagan",2004,"October","lip gloss","west",105,543,433
+"Jen",2005,"June","mascara","east",390,613,479
+"Colleen",2006,"March","lipstick","south",507,613,471
+"Emilee",2006,"November","foundation","east",78,516,406
+"Hallagan",2004,"November","eye liner","midwest",108,532,459
+"Hallagan",2004,"November","lipstick","west",150,440,315
+"Emilee",2006,"October","lip gloss","south",151,539,421
+"Hallagan",2004,"July","foundation","south",283,507,372
+"Emilee",2005,"October","eye liner","west",272,522,450
+"Cici",2004,"December","eye liner","west",306,441,318
+"Cici",2004,"August","eye liner","west",174,409,297
+"Cristina",2006,"November","foundation","east",163,431,300
+"Jen",2004,"June","lip gloss","west",59,607,565
+"Zaret",2004,"June","foundation","south",293,528,430
+"Jen",2005,"June","foundation","west",98,395,320
+"Cristina",2004,"November","foundation","west",128,380,282
+"Cristina",2006,"May","foundation","west",58,453,355
+"Zaret",2006,"November","foundation","midwest",51,546,449
+"Colleen",2004,"August","mascara","west",291,513,417
+"Hallagan",2006,"November","mascara","west",105,482,415
+"Hallagan",2005,"March","eye liner","midwest",242,368,262
+"Cristina",2006,"December","lip gloss","east",136,481,401
+"Colleen",2005,"February","lipstick","east",373,493,413
+"Ashley",2004,"December","mascara","west",144,392,267
+"Cici",2005,"November","mascara","south",174,335,238
+"Colleen",2004,"December","lip gloss","west",98,498,411
+"Emilee",2005,"May","lipstick","south",99,502,388
+"Hallagan",2006,"April","mascara","west",120,571,471
+"Jen",2005,"August","foundation","midwest",192,435,295
+"Zaret",2006,"February","lipstick","west",329,612,461
+"Colleen",2005,"June","lipstick","west",222,657,515
+"Colleen",2005,"November","eye liner","east",420,474,350
+"Emilee",2005,"November","eye liner","south",168,386,287
+"Ashley",2005,"November","lip gloss","south",136,405,240
+"Jen",2006,"November","lip gloss","south",45,423,273
+"Ashley",2006,"November","eye liner","east",283,543,446
+"Ashley",2005,"June","lip gloss","east",140,464,365
+"Zaret",2005,"September","eye liner","south",205,573,425
+"Betsy",2006,"December","lipstick","west",113,485,348
+"Cristina",2004,"May","mascara","south",415,524,447
+"Cristina",2004,"November","foundation","east",333,626,549
+"Jen",2005,"November","lip gloss","midwest",180,387,308
+"Ashley",2006,"November","mascara","south",363,535,445
+"Cici",2006,"July","lip gloss","south",123,545,432
+"Jen",2006,"November","lip gloss","west",260,560,457
+"Emilee",2005,"October","lip gloss","east",48,503,370
+"Hallagan",2005,"August","foundation","west",208,486,393
+"Colleen",2006,"July","foundation","midwest",80,440,296
+"Hallagan",2004,"February","foundation","east",216,604,537
+"Cristina",2005,"September","lip gloss","west",119,534,411
+"Ashley",2005,"August","eye liner","south",116,343,276
+"Ashley",2005,"October","mascara","west",245,598,498
+"Cici",2006,"November","eye liner","midwest",213,667,486
+"Hallagan",2006,"November","mascara","west",273,474,388
+"Zaret",2006,"February","lip gloss","south",207,587,496
+"Cici",2004,"March","lip gloss","west",108,441,379
+"Hallagan",2004,"February","lip gloss","west",233,587,403
+"Emilee",2006,"November","eye liner","east",19,386,264
+"Zaret",2004,"July","foundation","west",324,506,377
+"Cristina",2006,"October","lip gloss","west",146,594,438
+"Cici",2004,"January","mascara","west",313,640,461
+"Zaret",2006,"March","lipstick","south",47,481,397
+"Jen",2005,"June","eye liner","east",225,515,427
+"Emilee",2006,"March","foundation","south",48,458,377
+"Cici",2004,"May","foundation","west",108,370,260
+"Jen",2006,"November","foundation","midwest",144,377,320
+"Ashley",2006,"March","foundation","midwest",379,515,429
+"Ashley",2004,"March","lip gloss","midwest",104,523,414
+"Colleen",2005,"April","lip gloss","midwest",148,421,305
+"Jen",2004,"May","mascara","midwest",318,477,401
+"Hallagan",2006,"November","lip gloss","south",135,377,301
+"Jen",2005,"February","foundation","south",146,355,280
+"Betsy",2004,"April","lip gloss","east",147,445,346
+"Ashley",2004,"December","lip gloss","south",282,392,376
+"Betsy",2004,"May","lipstick","midwest",355,620,488
+"Jen",2004,"December","eye liner","midwest",178,484,357
+"Cristina",2004,"May","lip gloss","south",99,529,366
+"Ashley",2005,"December","mascara","west",153,504,397
+"Ashley",2004,"January","eye liner","midwest",71,441,338
+"Colleen",2005,"February","foundation","east",208,617,516
+"Cristina",2005,"November","eye liner","west",160,403,313
+"Emilee",2005,"April","lip gloss","south",246,510,425
+"Colleen",2004,"December","lipstick","midwest",166,164,82
+"Cristina",2005,"May","lip gloss","west",53,428,367
+"Zaret",2004,"May","foundation","midwest",127,433,338
+"Colleen",2004,"December","mascara","west",158,483,340
+"Emilee",2004,"November","lip gloss","west",147,366,309
+"Jen",2006,"May","lip gloss","midwest",160,376,282
+"Betsy",2004,"October","mascara","east",258,584,467
+"Zaret",2005,"July","foundation","south",236,555,441
+"Betsy",2006,"September","lipstick","midwest",279,485,397
+"Jen",2005,"December","mascara","west",206,658,525
+"Hallagan",2005,"February","foundation","west",251,418,332
+"Cici",2004,"April","foundation","midwest",203,828,653
+"Jen",2004,"June","eye liner","south",218,492,430
+"Zaret",2005,"July","eye liner","east",164,461,387
+"Cristina",2005,"October","foundation","east",149,320,230
+"Betsy",2006,"February","foundation","west",237,580,482
+"Cristina",2004,"March","mascara","midwest",641,600,461
+"Hallagan",2004,"November","foundation","east",186,639,462
+"Ashley",2005,"January","foundation","midwest",66,378,307
+"Zaret",2006,"November","eye liner","west",329,513,416
+"Jen",2006,"February","foundation","east",186,626,529
+"Betsy",2005,"August","lipstick","west",315,676,574
+"Colleen",2005,"January","foundation","east",533,574,468
+"Jen",2005,"August","eye liner","south",120,372,292
+"Zaret",2006,"December","mascara","west",123,388,288
+"Colleen",2004,"October","eye liner","west",268,382,310
+"Jen",2006,"June","lipstick","midwest",165,369,252
+"Emilee",2004,"September","foundation","south",56,499,416
+"Ashley",2006,"May","foundation","east",177,461,361
+"Hallagan",2004,"July","eye liner","west",314,565,544
+"Betsy",2004,"June","eye liner","south",91,354,250
+"Hallagan",2006,"August","lip gloss","south",135,412,341
+"Jen",2006,"February","foundation","west",129,331,232
+"Betsy",2004,"February","eye liner","east",188,328,234
+"Zaret",2006,"November","eye liner","south",64,440,317
+"Cristina",2006,"October","foundation","west",120,520,399
+"Cici",2006,"October","eye liner","west",276,511,340
+"Colleen",2006,"November","lipstick","midwest",336,446,373
+"Cici",2005,"March","mascara","south",108,366,258
+"Cici",2004,"January","foundation","east",469,500,400
+"Ashley",2004,"February","mascara","west",253,502,413
+"Betsy",2004,"December","eye liner","south",265,476,363
+"Cristina",2006,"August","lipstick","midwest",117,455,354
+"Hallagan",2005,"June","lip gloss","south",155,331,258
+"Hallagan",2006,"January","foundation","south",122,367,229
+"Cici",2004,"January","mascara","east",99,486,414
+"Ashley",2004,"November","eye liner","east",50,597,475
+"Cristina",2004,"November","eye liner","south",185,361,259
+"Betsy",2004,"February","eye liner","south",122,462,358
+"Zaret",2004,"May","lip gloss","east",72,485,369
+"Betsy",2005,"October","lipstick","west",27,491,379
+"Jen",2004,"June","lip gloss","east",359,610,483
+"Ashley",2005,"August","lip gloss","west",235,646,533
+"Cici",2006,"December","mascara","west",193,493,330
+"Jen",2006,"March","mascara","east",22,428,287
+"Zaret",2006,"June","foundation","west",227,667,554
+"Colleen",2005,"April","mascara","south",187,463,323
+"Colleen",2004,"April","mascara","east",202,554,453
+"Ashley",2004,"January","mascara","west",141,497,385
+"Cristina",2004,"February","lip gloss","east",202,549,411
+"Colleen",2005,"April","lip gloss","west",81,586,434
+"Hallagan",2006,"August","mascara","midwest",167,463,371
+"Ashley",2006,"June","eye liner","south",67,451,340
+"Zaret",2006,"February","lip gloss","midwest",490,498,381
+"Colleen",2006,"August","lip gloss","midwest",65,400,302
+"Cici",2005,"June","mascara","east",114,453,386
+"Cici",2005,"December","lip gloss","west",139,456,380
+"Betsy",2004,"October","foundation","east",210,691,619
+"Ashley",2006,"October","lip gloss","south",186,340,264
+"Cristina",2004,"April","lip gloss","south",177,411,335
+"Colleen",2005,"March","foundation","midwest",204,602,539
+"Cici",2004,"May","lip gloss","south",177,464,343
+"Betsy",2005,"July","foundation","south",51,502,365
+"Ashley",2006,"September","foundation","east",332,530,434
+"Cici",2004,"June","eye liner","south",129,451,397
+"Hallagan",2006,"February","lip gloss","south",257,471,412
+"Emilee",2005,"May","foundation","east",167,207,138
+"Zaret",2006,"May","lipstick","east",146,201,62
+"Jen",2005,"October","eye liner","midwest",124,484,434
+"Jen",2004,"March","lip gloss","west",178,401,322
+"Cici",2006,"December","mascara","west",107,586,464
+"Jen",2006,"July","lip gloss","east",553,608,519
+"Zaret",2004,"November","foundation","west",157,498,383
+"Jen",2005,"March","mascara","west",261,582,517
+"Betsy",2005,"November","eye liner","west",285,610,445
+"Betsy",2004,"July","eye liner","south",501,687,561
+"Zaret",2006,"July","eye liner","midwest",207,490,447
+"Jen",2006,"February","eye liner","south",63,377,288
+"Hallagan",2004,"June","foundation","south",217,447,367
+"Betsy",2005,"November","lipstick","south",82,612,499
+"Ashley",2004,"April","eye liner","midwest",106,526,458
+"Ashley",2006,"March","mascara","west",282,583,528
+"Jen",2006,"December","mascara","west",58,533,478
+"Jen",2005,"October","lipstick","midwest",111,417,302
+"Betsy",2005,"May","mascara","east",318,523,421
+"Zaret",2006,"November","eye liner","east",81,522,396
+"Zaret",2006,"May","foundation","west",256,627,446
+"Colleen",2006,"June","mascara","midwest",202,581,506
+"Colleen",2006,"October","lip gloss","east",233,589,487
+"Cristina",2004,"May","mascara","south",335,614,547
+"Ashley",2005,"November","eye liner","west",314,590,483
+"Colleen",2004,"November","mascara","east",71,478,354
+"Cristina",2004,"June","eye liner","east",169,433,287
+"Jen",2005,"November","lipstick","west",364,547,443
+"Zaret",2005,"November","mascara","west",194,410,337
+"Cici",2006,"July","foundation","west",40,332,232
+"Jen",2005,"March","lipstick","east",204,457,354
+"Zaret",2004,"February","eye liner","east",83,616,491
+"Jen",2006,"April","eye liner","west",117,419,309
+"Betsy",2004,"November","foundation","south",447,697,595
+"Hallagan",2005,"July","lipstick","south",41,391,311
+"Betsy",2005,"December","foundation","south",112,493,347
+"Jen",2004,"February","lipstick","east",21,470,372
+"Colleen",2005,"November","lip gloss","south",280,561,439
+"Cristina",2004,"September","mascara","south",195,325,222
+"Betsy",2004,"April","mascara","south",123,409,295
+"Zaret",2006,"March","eye liner","south",193,376,304
+"Betsy",2004,"May","foundation","west",214,664,514
+"Hallagan",2005,"November","foundation","midwest",392,430,349
+"Cici",2006,"November","foundation","west",96,496,348
+"Emilee",2005,"November","eye liner","west",375,510,412
+"Emilee",2004,"March","eye liner","west",102,347,260
+"Cristina",2004,"October","foundation","west",331,472,359
+"Betsy",2004,"January","lip gloss","east",202,490,351
+"Jen",2004,"January","foundation","south",69,410,273
+"Zaret",2006,"June","mascara","east",305,568,470
+"Hallagan",2005,"December","mascara","south",133,572,482
+"Hallagan",2004,"August","mascara","west",259,660,526
+"Cici",2004,"December","eye liner","south",184,413,326
+"Jen",2005,"November","eye liner","west",201,620,512
+"Hallagan",2004,"September","lip gloss","midwest",202,687,578
+"Zaret",2006,"November","eye liner","east",252,641,492
+"Cristina",2005,"November","lip gloss","east",117,550,396
+"Jen",2004,"May","foundation","south",274,559,498
+"Emilee",2006,"October","lipstick","west",86,418,337
+"Hallagan",2004,"August","eye liner","east",47,411,291
+"Colleen",2004,"April","lipstick","east",179,420,343
+"Ashley",2005,"March","lip gloss","east",131,460,396
+"Cristina",2005,"February","lipstick","midwest",174,410,297
+"Jen",2005,"February","foundation","east",468,456,386
+"Zaret",2004,"September","mascara","east",238,543,487
+"Colleen",2006,"January","foundation","south",153,297,234
+"Hallagan",2004,"April","eye liner","midwest",216,482,332
+"Betsy",2006,"October","foundation","midwest",77,513,342
+"Betsy",2006,"October","lipstick","east",173,426,349
+"Betsy",2006,"January","eye liner","midwest",111,362,233
+"Cici",2004,"November","eye liner","midwest",79,561,424
+"Jen",2005,"February","lipstick","south",373,482,415
+"Ashley",2006,"December","foundation","west",113,406,295
+"Cristina",2004,"November","lipstick","east",221,507,326
+"Zaret",2006,"December","mascara","east",320,531,423
+"Hallagan",2005,"July","eye liner","south",300,551,444
+"Ashley",2006,"November","mascara","south",20,381,294
+"Jen",2006,"April","eye liner","east",90,410,303
+"Cristina",2004,"September","foundation","midwest",206,621,531
+"Betsy",2004,"October","eye liner","midwest",342,418,316
+"Jen",2006,"November","eye liner","east",533,529,384
+"Jen",2006,"November","foundation","midwest",110,353,239
+"Zaret",2004,"April","mascara","west",77,342,262
+"Ashley",2004,"May","eye liner","south",143,558,421
+"Ashley",2004,"July","mascara","west",229,355,320
+"Ashley",2004,"January","foundation","midwest",117,315,246
+"Hallagan",2004,"November","lipstick","west",351,541,454
+"Emilee",2004,"August","mascara","west",190,395,300
+"Cici",2006,"August","eye liner","west",414,449,408
+"Cici",2005,"January","eye liner","midwest",61,413,335
+"Jen",2005,"June","lip gloss","west",300,494,388
+"Emilee",2005,"March","foundation","south",226,444,405
+"Hallagan",2006,"July","lipstick","east",51,356,285
+"Emilee",2006,"December","lip gloss","midwest",55,430,325
+"Jen",2005,"July","lip gloss","midwest",178,429,317
+"Betsy",2004,"September","foundation","midwest",109,461,361
+"Colleen",2005,"November","mascara","west",362,613,494
+"Jen",2006,"December","lipstick","west",200,564,439
+"Hallagan",2005,"October","mascara","south",371,634,540
+"Hallagan",2004,"November","lip gloss","east",244,566,477
+"Zaret",2006,"October","eye liner","south",93,428,362
+"Cici",2005,"October","mascara","midwest",42,291,251
+"Hallagan",2005,"November","lip gloss","south",332,430,313
+"Cristina",2005,"November","mascara","west",154,425,332
+"Cici",2005,"November","lip gloss","east",118,430,286
+"Jen",2005,"November","mascara","midwest",180,570,414
+"Emilee",2005,"December","lipstick","west",324,572,485
+"Cici",2006,"February","lip gloss","south",116,541,415
+"Ashley",2005,"June","eye liner","east",20,429,374
+"Cristina",2004,"October","foundation","south",84,457,335
+"Cristina",2004,"February","foundation","south",353,426,338
+"Hallagan",2006,"February","lip gloss","west",267,501,436
+"Ashley",2004,"January","lipstick","west",230,605,535
+"Cici",2006,"August","eye liner","midwest",47,439,339
+"Emilee",2004,"December","foundation","west",74,487,334
+"Hallagan",2006,"December","foundation","west",53,447,320
+"Colleen",2005,"January","lip gloss","south",164,380,295
+"Jen",2004,"March","lip gloss","midwest",125,546,455
+"Emilee",2004,"November","eye liner","south",87,623,493
+"Hallagan",2006,"December","eye liner","east",149,499,385
+"Cici",2006,"November","foundation","east",63,455,341
+"Emilee",2004,"June","eye liner","west",114,354,236
+"Zaret",2006,"August","lip gloss","south",89,351,251
+"Cici",2006,"June","lipstick","west",125,472,410
+"Betsy",2004,"January","mascara","south",80,616,498
+"Colleen",2005,"November","lipstick","west",33,609,491
+"Colleen",2005,"December","mascara","west",102,401,275
+"Zaret",2005,"December","foundation","south",110,480,369
+"Colleen",2004,"August","mascara","south",263,548,415
+"Colleen",2004,"September","foundation","east",178,442,322
+"Jen",2004,"November","mascara","midwest",64,356,285
+"Zaret",2005,"September","eye liner","east",62,363,328
+"Betsy",2006,"August","lip gloss","south",134,408,278
+"Hallagan",2005,"August","mascara","west",325,542,477
+"Ashley",2006,"July","mascara","east",245,414,351
+"Cristina",2005,"December","mascara","west",283,644,512
+"Hallagan",2006,"November","foundation","south",194,463,378
+"Cristina",2006,"January","mascara","midwest",307,638,519
+"Jen",2004,"June","eye liner","midwest",135,396,287
+"Colleen",2006,"December","lip gloss","west",244,516,419
+"Colleen",2006,"May","lip gloss","west",165,426,361
+"Cristina",2004,"October","mascara","midwest",84,370,303
+"Emilee",2004,"April","foundation","midwest",383,585,465
+"Ashley",2004,"June","eye liner","west",74,401,324
+"Colleen",2004,"April","mascara","west",323,523,446
+"Hallagan",2004,"September","mascara","midwest",153,380,245
+"Jen",2006,"November","eye liner","west",75,420,368
+"Zaret",2006,"June","foundation","west",56,567,454
+"Colleen",2006,"May","foundation","south",162,422,315
+"Betsy",2006,"February","eye liner","west",117,484,378
+"Cristina",2006,"November","mascara","west",228,663,553
+"Hallagan",2006,"January","foundation","south",177,559,409
+"Jen",2006,"June","eye liner","west",121,602,520
+"Betsy",2005,"June","foundation","midwest",125,505,374
+"Hallagan",2005,"June","eye liner","south",156,440,350
+"Jen",2006,"September","eye liner","midwest",136,498,382
+"Betsy",2004,"April","mascara","midwest",88,514,414
+"Hallagan",2005,"October","foundation","south",237,523,454
+"Hallagan",2005,"July","eye liner","midwest",119,514,421
+"Hallagan",2004,"December","mascara","west",54,489,350
+"Jen",2005,"July","mascara","east",103,395,269
+"Emilee",2004,"November","lip gloss","south",132,415,323
+"Emilee",2006,"November","lip gloss","south",165,494,364
+"Ashley",2005,"December","mascara","midwest",155,291,221
+"Hallagan",2004,"January","lipstick","south",61,287,207
+"Cici",2005,"May","eye liner","south",192,497,447
+"Cici",2004,"April","eye liner","south",255,498,444
+"Emilee",2006,"June","eye liner","south",235,406,307
+"Ashley",2004,"March","eye liner","west",383,505,399
+"Emilee",2004,"November","foundation","south",163,372,320
+"Zaret",2006,"February","foundation","midwest",146,559,484
+"Ashley",2004,"September","mascara","midwest",121,436,328
+"Emilee",2006,"February","foundation","south",70,366,311
+"Emilee",2005,"November","eye liner","south",38,368,263
+"Betsy",2005,"February","mascara","south",216,683,548
+"Jen",2004,"December","eye liner","west",93,375,279
+"Jen",2005,"July","lip gloss","west",208,538,431
+"Cici",2006,"May","foundation","midwest",74,377,282
+"Jen",2006,"September","foundation","south",20,440,362
+"Hallagan",2006,"January","mascara","south",52,159,98
+"Zaret",2004,"July","eye liner","east",167,359,222
+"Zaret",2005,"March","eye liner","east",170,464,404
+"Zaret",2004,"February","mascara","south",417,591,512
+"Emilee",2006,"November","lipstick","west",69,432,342
+"Hallagan",2006,"November","eye liner","east",123,360,224
+"Betsy",2005,"June","lip gloss","west",100,481,370
+"Cristina",2006,"September","foundation","midwest",161,466,380
+"Jen",2006,"June","eye liner","west",84,491,386
+"Cici",2006,"February","foundation","west",265,551,439
+"Colleen",2005,"August","eye liner","midwest",176,325,200
+"Cristina",2006,"July","mascara","west",69,304,216
+"Betsy",2004,"September","lip gloss","midwest",437,586,468
+"Zaret",2006,"November","lip gloss","west",195,476,348
+"Jen",2005,"November","mascara","east",117,309,236
+"Hallagan",2006,"March","eye liner","east",302,664,541
+"Jen",2005,"February","foundation","midwest",109,337,289
+"Betsy",2004,"August","lip gloss","midwest",185,478,372
+"Hallagan",2004,"February","lipstick","east",337,606,550
+"Colleen",2005,"November","eye liner","south",97,450,360
+"Jen",2005,"November","foundation","east",151,326,235
+"Colleen",2005,"May","foundation","south",342,568,406
+"Cristina",2006,"October","lip gloss","east",131,463,401
+"Betsy",2004,"November","lipstick","west",150,566,472
+"Emilee",2004,"December","foundation","west",98,506,368
+"Jen",2005,"October","mascara","south",139,320,220
+"Emilee",2005,"June","lip gloss","south",76,511,403
+"Jen",2006,"November","eye liner","west",196,507,329
+"Hallagan",2006,"December","foundation","west",166,491,430
+"Ashley",2006,"December","lip gloss","west",289,499,423
+"Betsy",2004,"April","lipstick","midwest",200,354,237
+"Emilee",2006,"November","mascara","south",318,448,359
+"Emilee",2005,"September","mascara","south",260,503,389
+"Betsy",2006,"January","lip gloss","west",57,455,325
+"Ashley",2006,"December","foundation","south",153,443,364
+"Jen",2004,"October","foundation","south",61,464,375
+"Betsy",2005,"October","lip gloss","midwest",104,460,361
+"Zaret",2005,"March","lipstick","west",229,636,529
+"Betsy",2004,"July","mascara","south",179,446,331
+"Jen",2006,"March","lipstick","east",46,471,344
+"Jen",2004,"September","eye liner","west",348,638,508
+"Emilee",2006,"November","eye liner","east",247,596,433
+"Cristina",2004,"March","lip gloss","east",43,453,323
+"Betsy",2004,"May","lip gloss","east",20,348,235
+"Emilee",2006,"April","foundation","midwest",270,582,487
+"Colleen",2004,"June","lipstick","midwest",154,397,297
+"Cici",2004,"July","eye liner","east",207,617,515
+"Ashley",2005,"June","lip gloss","west",59,406,302
+"Ashley",2004,"March","lip gloss","east",204,654,517
+"Cici",2004,"November","foundation","midwest",199,339,285
+"Ashley",2005,"January","lipstick","east",72,414,315
+"Colleen",2004,"April","lip gloss","midwest",246,585,464
+"Jen",2004,"November","mascara","west",80,467,386
+"Ashley",2005,"December","lipstick","west",330,552,462
+"Hallagan",2004,"January","foundation","midwest",608,555,463
+"Betsy",2006,"December","mascara","east",143,281,227
+"Cristina",2006,"February","foundation","west",229,517,406
+"Jen",2006,"June","lip gloss","east",71,580,480
+"Hallagan",2005,"February","eye liner","west",528,491,417
+"Ashley",2005,"January","lip gloss","west",126,429,380
+"Jen",2006,"February","lipstick","west",98,387,280
+"Cici",2004,"September","foundation","south",191,441,294
+"Cristina",2006,"November","mascara","south",140,475,381
+"Ashley",2006,"October","lip gloss","east",202,519,421
+"Cristina",2004,"November","eye liner","east",120,468,373
+"Zaret",2004,"August","lip gloss","midwest",139,330,236
+"Jen",2005,"November","lip gloss","south",286,589,453
+"Colleen",2005,"August","mascara","south",241,499,422
+"Cristina",2004,"November","lipstick","west",307,494,444
+"Zaret",2005,"October","foundation","west",118,390,280
+"Hallagan",2006,"December","lip gloss","west",173,417,357
+"Jen",2004,"February","foundation","south",99,373,298
+"Cristina",2006,"March","lip gloss","west",66,529,380
+"Betsy",2004,"July","mascara","west",116,456,332
+"Hallagan",2005,"July","mascara","midwest",124,373,313
+"Betsy",2004,"December","lipstick","west",40,501,394
+"Zaret",2006,"December","foundation","south",193,375,260
+"Betsy",2005,"December","eye liner","west",291,575,440
+"Cristina",2004,"July","mascara","south",215,580,480
+"Colleen",2006,"January","mascara","south",73,522,390
+"Zaret",2005,"March","foundation","midwest",286,478,445
+"Hallagan",2005,"January","lip gloss","east",21,636,532
+"Cristina",2004,"November","eye liner","west",192,413,304
+"Betsy",2004,"April","eye liner","west",118,479,354
+"Cristina",2005,"May","foundation","midwest",223,564,475
+"Colleen",2005,"July","foundation","east",387,646,602
+"Jen",2004,"April","lip gloss","west",229,498,366
+"Colleen",2005,"February","lip gloss","south",306,569,491
+"Colleen",2006,"May","foundation","west",133,437,352
+"Betsy",2006,"November","foundation","east",113,421,334
+"Cristina",2005,"February","eye liner","west",268,560,456
+"Cici",2006,"April","foundation","west",327,706,557
+"Cici",2006,"May","eye liner","south",135,402,304
+"Cristina",2004,"November","lip gloss","south",423,560,476
+"Colleen",2005,"October","lip gloss","east",93,477,362
+"Betsy",2006,"January","eye liner","south",127,542,478
+"Cristina",2005,"January","eye liner","midwest",309,546,473
+"Hallagan",2006,"July","mascara","west",50,415,335
+"Cici",2004,"May","lip gloss","west",151,328,216
+"Betsy",2004,"November","eye liner","east",170,444,353
+"Ashley",2004,"March","eye liner","south",310,559,477
+"Cici",2005,"October","mascara","east",265,516,345
+"Cristina",2004,"April","lipstick","south",236,484,357
+"Cristina",2005,"July","eye liner","midwest",48,446,324
+"Colleen",2005,"March","mascara","south",279,492,375
+"Emilee",2006,"November","mascara","east",207,467,358
+"Cici",2006,"December","lipstick","south",219,494,394
+"Jen",2004,"May","lip gloss","west",185,335,226
+"Cici",2004,"April","lip gloss","west",161,350,296
+"Colleen",2006,"December","foundation","south",273,640,508
+"Colleen",2005,"June","mascara","east",158,454,361
+"Jen",2005,"January","lipstick","east",181,413,288
+"Colleen",2004,"March","lipstick","east",332,647,544
+"Cristina",2005,"June","mascara","east",178,464,371
+"Betsy",2004,"February","mascara","west",185,448,376
+"Emilee",2005,"August","eye liner","east",180,447,335
+"Jen",2005,"March","eye liner","west",233,636,491
+"Cristina",2005,"July","foundation","south",201,447,391
+"Cristina",2004,"July","lipstick","south",198,506,436
+"Cici",2004,"February","foundation","midwest",191,417,318
+"Ashley",2005,"November","mascara","west",105,365,269
+"Cici",2005,"April","foundation","south",271,507,329
+"Jen",2006,"October","mascara","midwest",70,533,430
+"Betsy",2006,"December","mascara","midwest",193,432,278
+"Cristina",2006,"November","mascara","west",85,486,394
+"Betsy",2006,"November","lip gloss","west",137,374,337
+"Betsy",2005,"October","foundation","east",34,402,273
+"Ashley",2005,"December","eye liner","west",75,377,304
+"Cici",2005,"December","eye liner","west",150,461,413
+"Jen",2005,"February","foundation","west",174,385,268
+"Ashley",2006,"October","lip gloss","midwest",82,504,416
+"Jen",2005,"May","lip gloss","west",283,642,565
+"Cici",2005,"November","eye liner","east",102,256,221
+"Cici",2004,"July","lipstick","west",133,474,406
+"Colleen",2004,"April","foundation","east",152,492,374
+"Cici",2005,"December","mascara","west",107,565,435
+"Hallagan",2004,"April","lip gloss","east",240,406,345
+"Hallagan",2004,"May","eye liner","south",196,547,474
+"Emilee",2006,"March","lip gloss","midwest",194,554,420
+"Zaret",2005,"January","mascara","east",243,444,395
+"Cristina",2006,"December","mascara","west",222,657,546
+"Colleen",2006,"December","mascara","midwest",173,500,382
+"Zaret",2004,"October","eye liner","south",78,468,335
+"Cristina",2006,"January","lip gloss","east",260,629,544
+"Zaret",2005,"June","mascara","south",145,335,279
+"Hallagan",2006,"December","foundation","west",71,384,304
+"Cici",2006,"March","mascara","south",58,469,374
+"Hallagan",2005,"December","lip gloss","east",171,396,319
+"Emilee",2006,"August","eye liner","midwest",200,508,409
+"Zaret",2004,"January","eye liner","east",45,465,369
+"Emilee",2004,"February","lip gloss","midwest",144,447,338
+"Jen",2006,"February","lip gloss","south",261,541,414
+"Jen",2004,"October","mascara","west",298,528,408
+"Emilee",2004,"November","foundation","east",522,576,505
+"Cici",2004,"June","eye liner","south",33,361,270
+"Colleen",2005,"June","lipstick","west",41,242,177
+"Ashley",2004,"May","foundation","south",93,518,407
+"Colleen",2006,"January","lip gloss","east",116,369,312
+"Jen",2004,"December","lipstick","west",182,442,296
+"Betsy",2006,"April","foundation","east",74,411,319
+"Hallagan",2004,"November","eye liner","midwest",104,445,296
+"Betsy",2006,"June","mascara","south",126,520,453
+"Cristina",2005,"April","mascara","midwest",117,361,303
+"Zaret",2006,"November","foundation","west",45,562,406
+"Cici",2005,"October","mascara","west",117,491,365
+"Colleen",2006,"August","eye liner","midwest",105,301,240
+"Hallagan",2004,"November","foundation","east",204,545,456
+"Betsy",2005,"August","eye liner","midwest",223,546,446
+"Jen",2006,"November","foundation","west",132,467,371
+"Jen",2006,"November","eye liner","midwest",192,328,252
+"Zaret",2006,"November","foundation","south",31,577,486
+"Colleen",2006,"November","mascara","east",198,513,378
+"Jen",2006,"March","mascara","west",98,556,426
+"Ashley",2006,"November","lip gloss","south",77,551,412
+"Zaret",2006,"May","eye liner","east",71,438,343
+"Emilee",2004,"January","eye liner","midwest",135,503,373
+"Hallagan",2006,"January","foundation","east",57,456,318
+"Ashley",2005,"August","foundation","west",22,425,339
+"Jen",2006,"February","foundation","south",200,541,422
+"Emilee",2006,"June","eye liner","south",194,420,333
+"Cristina",2006,"March","foundation","west",177,426,327
+"Zaret",2004,"February","lip gloss","east",167,402,341
+"Zaret",2006,"December","eye liner","west",222,618,459
+"Jen",2004,"September","foundation","midwest",173,385,299
+"Cristina",2004,"November","mascara","west",128,570,432
+"Hallagan",2004,"March","foundation","east",265,487,367
+"Ashley",2006,"October","lip gloss","south",55,553,456
+"Cici",2004,"August","eye liner","east",265,419,335
+"Zaret",2005,"June","foundation","west",182,412,320
+"Cristina",2004,"April","lip gloss","midwest",221,535,452
+"Jen",2004,"June","eye liner","west",185,231,156
+"Ashley",2006,"November","lipstick","south",195,496,379
+"Emilee",2004,"November","foundation","west",209,521,453
+"Cici",2004,"November","foundation","midwest",173,552,441
+"Jen",2006,"July","lipstick","east",115,388,273
+"Cici",2005,"November","mascara","south",273,346,322
+"Emilee",2006,"May","mascara","east",120,448,322
+"Betsy",2005,"December","eye liner","west",276,405,340
+"Colleen",2004,"April","foundation","east",86,344,287
+"Hallagan",2004,"August","lip gloss","east",141,473,357
+"Jen",2006,"December","mascara","west",214,585,449
+"Cristina",2005,"June","lip gloss","west",191,373,263
+"Cristina",2004,"February","lip gloss","south",116,571,464
+"Betsy",2005,"September","eye liner","south",185,440,307
+"Hallagan",2005,"June","mascara","midwest",94,567,481
+"Ashley",2005,"August","eye liner","midwest",116,366,335
+"Betsy",2005,"August","mascara","midwest",16,360,299
+"Colleen",2004,"February","foundation","midwest",133,345,279
+"Cici",2004,"October","lipstick","midwest",237,467,345
+"Zaret",2006,"March","mascara","west",113,495,399
+"Emilee",2004,"March","foundation","midwest",99,446,337
+"Cici",2006,"July","eye liner","east",188,355,313
+"Emilee",2004,"February","foundation","south",129,384,239
+"Cici",2006,"May","mascara","south",40,432,377
+"Betsy",2006,"November","eye liner","south",177,449,390
+"Ashley",2004,"November","eye liner","east",418,519,394
+"Emilee",2005,"July","lipstick","midwest",169,540,419
+"Cici",2006,"July","lip gloss","west",198,313,246
+"Jen",2006,"December","mascara","west",201,692,585
+"Emilee",2005,"January","mascara","west",38,409,286
+"Betsy",2004,"September","lip gloss","west",180,385,281
+"Colleen",2005,"February","lipstick","west",354,553,452
+"Ashley",2006,"September","foundation","south",218,609,495
+"Emilee",2005,"April","mascara","east",77,342,269
+"Cristina",2004,"November","mascara","midwest",230,602,514
+"Emilee",2005,"July","lipstick","midwest",67,485,392
+"Zaret",2005,"November","mascara","east",244,583,488
+"Cici",2006,"August","foundation","midwest",72,579,436
+"Zaret",2004,"November","eye liner","midwest",419,462,396
+"Jen",2005,"March","foundation","east",27,460,350
+"Colleen",2004,"November","mascara","midwest",480,589,520
+"Colleen",2004,"November","eye liner","south",207,602,502
+"Betsy",2006,"February","lip gloss","west",319,499,349
+"Emilee",2006,"November","mascara","west",125,443,357
+"Colleen",2004,"July","lipstick","south",265,576,494
+"Colleen",2005,"December","lipstick","midwest",91,517,386
+"Cici",2005,"November","eye liner","south",55,564,453
+"Cristina",2004,"December","lipstick","west",264,494,423
+"Cristina",2004,"June","lip gloss","south",76,474,353
+"Colleen",2004,"December","foundation","west",23,407,298
+"Emilee",2006,"August","lip gloss","west",129,331,267
+"Emilee",2004,"January","eye liner","midwest",260,494,381
+"Colleen",2004,"November","lip gloss","midwest",132,212,138
+"Betsy",2006,"December","foundation","east",207,459,399
+"Jen",2006,"October","foundation","east",83,452,375
+"Emilee",2006,"November","mascara","midwest",150,537,418
+"Hallagan",2005,"August","lipstick","west",199,370,233
+"Zaret",2005,"August","eye liner","south",296,600,508
+"Ashley",2005,"November","lip gloss","midwest",81,494,298
+"Jen",2006,"June","eye liner","midwest",111,328,195
+"Betsy",2005,"November","foundation","east",116,387,267
+"Ashley",2004,"October","eye liner","midwest",257,684,532
+"Emilee",2005,"December","lip gloss","west",259,612,500
+"Zaret",2004,"November","foundation","south",358,579,513
+"Emilee",2006,"July","mascara","west",81,575,441
+"Jen",2005,"April","lip gloss","east",142,441,305
+"Cici",2006,"July","lip gloss","west",273,533,436
+"Ashley",2006,"June","eye liner","east",276,520,413
+"Cristina",2005,"August","foundation","south",145,419,301
+"Zaret",2006,"July","lip gloss","east",232,474,397
+"Emilee",2006,"May","eye liner","west",194,462,359
+"Jen",2006,"July","lipstick","midwest",130,428,386
+"Emilee",2006,"January","mascara","midwest",230,554,417
+"Zaret",2005,"November","lip gloss","east",83,402,284
+"Jen",2005,"May","foundation","south",155,456,337
+"Betsy",2005,"April","lipstick","south",21,535,351
+"Ashley",2004,"November","mascara","west",158,491,446
+"Jen",2006,"January","foundation","south",167,565,449
+"Cici",2005,"December","lip gloss","east",295,506,461
+"Cici",2004,"November","lip gloss","south",247,568,479
+"Jen",2005,"November","lip gloss","midwest",223,537,408
+"Zaret",2004,"March","foundation","west",431,497,435
+"Cici",2004,"September","mascara","south",288,633,505
+"Zaret",2005,"November","foundation","east",219,566,434
+"Cici",2006,"January","foundation","west",48,453,336
+"Jen",2005,"January","mascara","midwest",87,453,335
+"Zaret",2004,"April","lipstick","east",184,534,438
+"Emilee",2006,"March","lip gloss","south",105,497,385
+"Cristina",2006,"July","lipstick","south",208,633,536
+"Ashley",2005,"November","foundation","west",159,460,349
+"Ashley",2004,"July","lip gloss","east",144,401,316
+"Hallagan",2004,"February","lip gloss","west",123,365,288
+"Colleen",2005,"January","lipstick","west",293,621,540
+"Betsy",2005,"July","foundation","south",220,664,513
+"Zaret",2004,"February","eye liner","east",147,472,377
+"Jen",2005,"November","eye liner","east",210,540,421
+"Betsy",2004,"September","lip gloss","west",175,449,340
+"Emilee",2005,"February","lipstick","south",132,373,277
+"Cici",2004,"August","eye liner","south",216,546,447
+"Colleen",2004,"January","lipstick","midwest",114,574,475
+"Ashley",2006,"November","lip gloss","east",43,517,417
+"Cristina",2004,"June","foundation","west",102,356,229
+"Ashley",2004,"October","lip gloss","south",357,493,370
+"Colleen",2004,"June","foundation","west",153,409,271
+"Cristina",2006,"April","mascara","south",13,496,395
+"Cristina",2006,"February","eye liner","south",135,475,373
+"Zaret",2006,"November","mascara","east",105,476,414
+"Zaret",2005,"January","eye liner","midwest",167,445,328
+"Jen",2005,"March","foundation","south",348,464,324
+"Ashley",2005,"November","lip gloss","east",265,494,344
+"Emilee",2004,"May","mascara","midwest",196,377,241
+"Ashley",2005,"April","lip gloss","south",238,576,492
+"Emilee",2006,"September","lip gloss","east",353,572,493
+"Cristina",2006,"December","eye liner","west",90,350,273
+"Ashley",2004,"January","mascara","south",179,400,336
+"Colleen",2005,"August","mascara","midwest",139,361,266
+"Hallagan",2006,"September","foundation","west",117,384,286
+"Betsy",2005,"August","eye liner","east",211,480,357
+"Zaret",2006,"July","lip gloss","south",54,639,507
+"Cristina",2004,"November","foundation","midwest",150,297,215
+"Zaret",2006,"April","lipstick","west",106,371,275
+"Betsy",2005,"February","lip gloss","east",115,426,338
+"Betsy",2006,"May","eye liner","south",142,252,186
+"Emilee",2006,"February","mascara","south",117,458,353
+"Cici",2006,"February","mascara","east",106,450,368
+"Cici",2006,"August","mascara","east",132,515,369
+"Ashley",2006,"October","lipstick","east",174,413,307
+"Emilee",2004,"September","mascara","east",208,578,470
+"Zaret",2006,"September","foundation","south",156,511,379
+"Cici",2006,"February","foundation","west",176,406,318
+"Zaret",2005,"May","mascara","west",166,346,281
+"Emilee",2006,"February","lip gloss","midwest",122,427,320
+"Zaret",2006,"June","mascara","south",347,382,280
+"Colleen",2005,"August","foundation","midwest",201,418,299
+"Ashley",2005,"March","mascara","midwest",228,679,587
+"Hallagan",2006,"February","lip gloss","south",91,200,115
+"Emilee",2006,"December","foundation","east",158,382,250
+"Hallagan",2006,"August","foundation","west",46,525,450
+"Betsy",2005,"May","lipstick","west",94,297,214
+"Emilee",2006,"December","lip gloss","west",135,496,352
+"Betsy",2005,"May","lip gloss","west",196,458,322
+"Jen",2004,"May","eye liner","east",172,424,278
+"Colleen",2004,"February","eye liner","south",114,384,356
+"Cristina",2004,"January","eye liner","midwest",156,456,356
+"Jen",2005,"November","eye liner","west",207,545,430
+"Zaret",2004,"April","lip gloss","west",109,369,285
+"Colleen",2004,"May","foundation","south",303,609,492
+"Betsy",2006,"February","lip gloss","east",166,474,333
+"Colleen",2004,"September","eye liner","west",166,490,400
+"Emilee",2004,"November","lip gloss","west",183,554,394
+"Emilee",2005,"November","eye liner","east",32,415,269
+"Ashley",2005,"November","eye liner","west",201,636,555
+"Cristina",2005,"May","lip gloss","east",159,431,322
+"Cristina",2004,"February","foundation","midwest",204,511,467
+"Colleen",2004,"October","lip gloss","south",169,541,427
+"Zaret",2004,"December","eye liner","west",261,502,349
+"Zaret",2006,"April","foundation","east",114,421,320
+"Emilee",2004,"July","mascara","west",96,532,418
+"Ashley",2004,"March","lipstick","west",73,637,545
+"Cici",2004,"April","foundation","east",310,609,482
+"Ashley",2005,"December","eye liner","east",236,460,376
+"Betsy",2006,"April","mascara","midwest",68,455,379
+"Zaret",2006,"December","eye liner","west",59,417,362
+"Colleen",2004,"December","mascara","midwest",372,617,502
+"Ashley",2005,"November","lip gloss","west",194,516,323
+"Colleen",2005,"October","lip gloss","midwest",232,552,463
+"Cici",2005,"December","eye liner","midwest",263,448,379
+"Ashley",2006,"February","foundation","midwest",300,531,445
+"Cici",2006,"October","eye liner","east",234,557,430
+"Jen",2006,"August","eye liner","south",186,387,316
+"Zaret",2004,"August","foundation","east",361,633,463
+"Hallagan",2004,"September","lipstick","midwest",301,563,464
+"Emilee",2006,"March","mascara","south",253,548,410
+"Colleen",2005,"August","foundation","east",52,484,348
+"Emilee",2006,"December","lipstick","west",117,488,377
+"Betsy",2005,"September","eye liner","south",108,378,301
+"Cici",2005,"November","foundation","south",88,466,394
+"Cici",2005,"July","eye liner","south",247,582,445
+"Hallagan",2004,"September","lipstick","west",215,481,368
+"Colleen",2006,"March","lip gloss","midwest",137,519,408
+"Cici",2006,"February","eye liner","west",68,453,345
+"Cici",2005,"November","lipstick","east",312,497,368
+"Hallagan",2005,"November","mascara","west",297,563,455
+"Cici",2005,"December","mascara","west",125,417,296
+"Betsy",2004,"February","mascara","west",148,300,207
+"Hallagan",2006,"December","lip gloss","midwest",207,598,497
+"Emilee",2006,"September","eye liner","west",147,550,491
+"Emilee",2005,"April","foundation","east",61,358,289
+"Betsy",2004,"August","foundation","south",69,487,372
+"Cristina",2006,"October","mascara","south",51,465,341
+"Cici",2004,"September","eye liner","midwest",120,429,310
+"Emilee",2005,"November","lipstick","midwest",98,488,477
+"Cristina",2004,"June","eye liner","west",74,450,360
+"Colleen",2006,"July","mascara","west",178,458,306
+"Jen",2006,"September","foundation","west",237,532,468
+"Cici",2004,"March","foundation","west",121,411,354
+"Zaret",2006,"April","eye liner","east",162,391,270
+"Cristina",2004,"September","mascara","midwest",284,556,443
+"Cici",2004,"February","lip gloss","midwest",126,469,350
+"Cici",2005,"February","lipstick","south",193,703,539
+"Emilee",2005,"November","lip gloss","south",40,526,411
+"Colleen",2004,"November","lip gloss","east",111,493,356
+"Betsy",2004,"December","mascara","midwest",80,612,502
+"Cici",2005,"November","eye liner","south",104,375,274
+"Colleen",2006,"December","foundation","west",171,524,384
+"Hallagan",2005,"June","lip gloss","south",92,340,272
+"Emilee",2004,"January","eye liner","south",126,412,326
+"Jen",2005,"July","lipstick","west",85,376,293
+"Betsy",2004,"November","lip gloss","east",142,366,276
+"Colleen",2004,"September","foundation","east",129,492,376
+"Betsy",2004,"May","mascara","midwest",418,570,411
+"Betsy",2004,"March","lip gloss","south",170,583,497
+"Hallagan",2006,"March","foundation","east",150,291,217
+"Cristina",2004,"March","eye liner","east",273,515,439
+"Jen",2005,"December","eye liner","south",134,590,515
+"Zaret",2004,"April","lip gloss","east",193,477,323
+"Emilee",2005,"December","eye liner","west",104,489,398
+"Jen",2005,"October","lipstick","midwest",270,572,466
+"Betsy",2006,"December","foundation","west",82,443,273
+"Jen",2005,"March","foundation","east",149,474,377
+"Cici",2005,"October","foundation","west",74,444,308
+"Colleen",2006,"June","mascara","south",169,306,229
+"Hallagan",2004,"July","lip gloss","south",259,488,419
+"Hallagan",2004,"November","foundation","south",182,412,303
+"Hallagan",2004,"November","mascara","west",380,401,313
+"Jen",2005,"August","lip gloss","south",197,375,229
+"Betsy",2006,"November","lip gloss","east",81,431,336
+"Cici",2005,"October","mascara","midwest",213,566,456
+"Jen",2004,"June","lip gloss","east",37,430,361
+"Hallagan",2005,"November","foundation","midwest",206,550,427
+"Ashley",2006,"August","foundation","east",101,526,468
+"Emilee",2004,"April","foundation","south",189,416,330
+"Colleen",2005,"June","foundation","south",211,544,440
+"Cici",2006,"April","eye liner","east",107,451,308
+"Cristina",2006,"November","foundation","west",127,403,297
+"Emilee",2005,"December","eye liner","west",349,443,309
+"Ashley",2004,"September","lip gloss","west",112,357,294
+"Colleen",2005,"April","eye liner","south",107,445,328
+"Jen",2005,"November","foundation","south",457,500,435
+"Colleen",2005,"April","foundation","midwest",149,367,286
+"Ashley",2004,"January","mascara","midwest",73,403,334
+"Zaret",2004,"December","lip gloss","west",276,608,553
+"Ashley",2006,"November","foundation","south",163,508,393
+"Zaret",2004,"August","foundation","south",300,485,368
+"Colleen",2006,"July","mascara","south",146,374,328
+"Betsy",2004,"December","lip gloss","midwest",136,439,364
+"Ashley",2004,"November","lip gloss","south",225,548,432
+"Betsy",2004,"April","eye liner","west",138,472,389
+"Emilee",2004,"November","eye liner","west",84,483,354
+"Cristina",2005,"May","foundation","midwest",50,406,330
+"Cristina",2006,"November","lip gloss","midwest",592,575,470
+"Emilee",2006,"March","lipstick","west",94,590,452
+"Colleen",2006,"November","foundation","midwest",73,431,269
+"Cici",2005,"February","mascara","midwest",325,796,693
+"Zaret",2005,"November","lip gloss","east",60,444,378
+"Cici",2006,"March","mascara","west",105,428,322
+"Colleen",2004,"November","lip gloss","south",361,515,375
+"Emilee",2005,"November","lipstick","west",117,452,303
+"Betsy",2005,"November","mascara","south",309,487,401
+"Colleen",2004,"March","lipstick","midwest",200,337,259
+"Hallagan",2005,"March","eye liner","west",283,546,449
+"Betsy",2005,"February","mascara","west",48,516,440
+"Colleen",2006,"March","mascara","east",156,503,390
+"Ashley",2005,"August","mascara","east",460,498,417
+"Hallagan",2006,"November","eye liner","east",89,434,302
+"Zaret",2004,"November","lip gloss","south",165,360,282
+"Jen",2005,"December","foundation","east",73,601,543
+"Cristina",2004,"April","foundation","west",205,608,538
+"Betsy",2006,"July","mascara","east",144,489,390
+"Cici",2004,"December","eye liner","east",233,543,475
+"Jen",2006,"November","mascara","west",179,347,333
+"Cici",2004,"February","mascara","west",268,617,514
+"Betsy",2004,"February","eye liner","south",475,549,442
+"Zaret",2004,"October","foundation","west",96,575,418
+"Colleen",2006,"February","lip gloss","south",201,574,432
+"Cici",2006,"March","eye liner","east",268,566,483
+"Ashley",2005,"February","mascara","east",162,448,343
+"Betsy",2004,"November","lip gloss","midwest",86,387,258
+"Ashley",2004,"November","foundation","south",103,487,376
+"Zaret",2006,"September","foundation","south",104,360,287
+"Colleen",2005,"July","lip gloss","west",41,495,373
+"Hallagan",2005,"April","eye liner","south",82,366,263
+"Cici",2006,"November","eye liner","midwest",260,658,534
+"Jen",2004,"November","mascara","south",136,459,350
+"Cici",2005,"November","lip gloss","west",31,246,197
+"Jen",2005,"November","eye liner","east",129,495,354
+"Cristina",2006,"September","mascara","west",443,533,448
+"Emilee",2006,"January","lip gloss","midwest",302,525,455
+"Emilee",2005,"January","foundation","west",176,476,367
+"Betsy",2006,"May","lip gloss","west",81,429,336
+"Hallagan",2006,"November","mascara","west",281,567,453
+"Jen",2006,"March","eye liner","west",85,390,363
+"Ashley",2006,"December","lip gloss","east",63,411,318
+"Cici",2004,"November","mascara","west",466,448,342
+"Colleen",2005,"December","foundation","west",437,546,490
+"Zaret",2006,"February","foundation","east",121,448,354
+"Zaret",2004,"November","lip gloss","midwest",249,669,542
+"Hallagan",2004,"December","eye liner","east",270,727,633
+"Hallagan",2005,"April","mascara","midwest",235,520,460
+"Zaret",2004,"July","lipstick","east",266,403,256
+"Ashley",2006,"January","lipstick","east",170,354,244
+"Betsy",2004,"December","foundation","west",88,300,227
+"Zaret",2004,"June","foundation","south",99,609,503
+"Colleen",2006,"December","mascara","west",298,520,467
+"Hallagan",2005,"February","eye liner","south",107,518,470
+"Hallagan",2005,"January","lip gloss","midwest",166,361,269
+"Jen",2004,"December","mascara","south",30,428,293
+"Betsy",2006,"March","lipstick","south",225,475,455
+"Zaret",2006,"November","mascara","south",216,461,396
+"Betsy",2004,"October","lipstick","west",91,579,417
+"Colleen",2006,"August","mascara","west",66,462,420
+"Jen",2004,"May","foundation","midwest",163,345,254
+"Hallagan",2004,"November","lip gloss","south",149,563,477
+"Betsy",2005,"July","lip gloss","west",282,535,484
+"Cici",2005,"June","foundation","east",228,462,368
+"Emilee",2004,"September","mascara","south",92,392,272
+"Ashley",2004,"November","foundation","midwest",140,334,272
+"Hallagan",2006,"November","lip gloss","west",225,483,362
+"Jen",2006,"November","lip gloss","south",148,420,326
+"Zaret",2005,"September","eye liner","midwest",50,415,333
+"Cristina",2004,"November","lipstick","midwest",162,479,332
+"Cici",2006,"November","lip gloss","south",207,542,411
+"Emilee",2004,"September","eye liner","east",258,422,333
+"Betsy",2006,"November","foundation","west",169,445,333
+"Zaret",2005,"September","lipstick","south",75,471,400
+"Emilee",2004,"November","eye liner","east",45,546,414
+"Hallagan",2006,"February","lipstick","west",132,331,250
+"Jen",2004,"August","eye liner","east",106,392,294
+"Betsy",2006,"January","lip gloss","east",320,587,495
+"Cici",2006,"March","mascara","midwest",68,456,314
+"Emilee",2006,"December","foundation","west",380,618,477
+"Ashley",2005,"April","lipstick","east",32,362,270
+"Betsy",2005,"December","eye liner","midwest",381,457,372
+"Betsy",2004,"December","eye liner","midwest",294,685,529
+"Colleen",2004,"November","lip gloss","east",145,418,329
+"Emilee",2005,"January","mascara","east",102,427,316
+"Cici",2005,"June","lipstick","midwest",128,331,246
+"Jen",2006,"June","lip gloss","east",448,686,549
+"Cristina",2004,"March","lipstick","south",70,346,288
+"Ashley",2004,"March","lip gloss","west",281,372,293
+"Betsy",2006,"November","foundation","east",203,489,416
+"Emilee",2004,"November","eye liner","midwest",168,506,370
+"Emilee",2004,"June","lip gloss","south",316,471,369
+"Cici",2005,"July","eye liner","midwest",218,624,503
+"Hallagan",2004,"February","lipstick","east",142,466,383
+"Colleen",2005,"February","eye liner","west",130,578,420
+"Colleen",2006,"September","eye liner","south",281,612,509
+"Jen",2006,"November","eye liner","midwest",209,481,426
+"Betsy",2004,"June","lipstick","east",39,340,251
+"Cici",2006,"September","eye liner","east",138,404,295
+"Betsy",2004,"December","foundation","west",344,466,349
+"Betsy",2006,"November","lip gloss","south",69,611,543
+"Cici",2006,"January","eye liner","east",247,536,445
+"Ashley",2006,"December","eye liner","south",200,311,315
+"Emilee",2005,"November","mascara","east",308,642,515
+"Betsy",2006,"March","mascara","south",356,482,318
+"Cristina",2004,"December","mascara","west",217,502,438
+"Colleen",2005,"April","lip gloss","midwest",162,342,226
+"Jen",2006,"November","eye liner","east",279,554,456
+"Cristina",2004,"May","lip gloss","west",23,524,404
+"Hallagan",2006,"July","mascara","midwest",424,586,488
+"Colleen",2004,"September","lip gloss","west",170,628,478
+"Hallagan",2005,"November","lip gloss","west",156,417,329
+"Ashley",2004,"July","mascara","midwest",333,409,356
+"Jen",2004,"September","eye liner","east",307,502,347
+"Cici",2005,"November","lip gloss","south",68,335,207
+"Cici",2006,"November","lipstick","midwest",167,302,190
+"Ashley",2004,"July","foundation","south",216,498,419
+"Zaret",2004,"September","lip gloss","west",179,423,277
+"Hallagan",2006,"May","mascara","midwest",66,430,313
+"Cici",2006,"November","mascara","west",320,591,456
+"Betsy",2006,"August","lip gloss","south",149,440,388
+"Jen",2005,"November","mascara","east",185,422,330
+"Emilee",2006,"October","eye liner","south",106,315,235
+"Cristina",2005,"November","mascara","midwest",162,367,261
+"Cristina",2005,"May","eye liner","west",500,516,442
+"Emilee",2004,"January","eye liner","east",443,520,423
+"Jen",2004,"December","lipstick","west",273,490,381
+"Hallagan",2006,"August","eye liner","east",237,523,421
+"Ashley",2005,"February","lip gloss","south",192,394,297
+"Emilee",2006,"July","eye liner","west",299,535,465
+"Zaret",2005,"April","lipstick","midwest",314,620,520
+"Cici",2005,"January","mascara","south",214,493,416
+"Betsy",2006,"March","foundation","south",105,571,473
+"Colleen",2006,"January","lipstick","east",282,429,343
+"Ashley",2005,"July","eye liner","south",184,456,363
+"Colleen",2006,"February","mascara","west",231,536,440
+"Colleen",2005,"April","lipstick","west",61,224,138
+"Colleen",2006,"April","mascara","south",107,353,286
+"Colleen",2004,"April","eye liner","west",358,490,395
+"Jen",2004,"December","lipstick","west",152,424,335
+"Zaret",2006,"May","mascara","midwest",282,471,404
+"Cristina",2006,"May","lip gloss","west",61,439,375
+"Emilee",2006,"December","mascara","midwest",192,494,408
+"Colleen",2005,"April","eye liner","east",81,357,247
+"Zaret",2005,"May","eye liner","south",81,429,317
+"Emilee",2004,"May","lip gloss","east",471,351,256
+"Ashley",2005,"November","mascara","south",243,606,506
+"Cici",2004,"December","mascara","west",291,593,526
+"Betsy",2004,"February","foundation","midwest",72,403,276
+"Emilee",2005,"April","foundation","south",103,414,293
+"Betsy",2006,"June","mascara","east",214,517,427
+"Cici",2006,"February","eye liner","west",106,346,239
+"Colleen",2005,"November","mascara","south",205,516,438
+"Betsy",2006,"February","mascara","east",207,595,492
+"Betsy",2005,"December","eye liner","east",257,486,409
+"Colleen",2004,"November","foundation","south",305,563,513
+"Ashley",2004,"August","mascara","east",154,542,413
+"Hallagan",2006,"November","mascara","east",66,389,285
+"Colleen",2004,"October","eye liner","midwest",89,472,323
+"Betsy",2006,"July","mascara","midwest",175,420,309
+"Zaret",2004,"February","mascara","south",204,567,462
+"Colleen",2004,"February","foundation","west",269,662,530
+"Cristina",2004,"November","foundation","east",112,461,356
+"Jen",2004,"April","foundation","west",200,453,333
+"Jen",2006,"October","foundation","west",250,623,543
+"Jen",2006,"December","lip gloss","south",216,417,331
+"Hallagan",2006,"December","lip gloss","west",300,630,559
+"Cristina",2004,"February","eye liner","south",81,414,300
+"Cici",2004,"October","eye liner","midwest",89,307,246
+"Cristina",2004,"November","foundation","west",70,453,356
+"Zaret",2004,"December","lip gloss","west",193,524,411
+"Cristina",2005,"October","eye liner","west",319,658,576
+"Hallagan",2004,"November","foundation","west",78,590,468
+"Hallagan",2005,"October","mascara","east",210,715,603
+"Betsy",2005,"October","foundation","west",373,595,502
+"Hallagan",2004,"December","lipstick","west",158,452,375
+"Colleen",2004,"March","mascara","south",121,242,184
+"Cici",2004,"September","foundation","south",85,410,293
+"Cristina",2005,"September","foundation","east",151,439,363
+"Zaret",2004,"December","eye liner","west",177,572,446
+"Colleen",2004,"September","mascara","midwest",227,489,420
+"Betsy",2005,"November","lipstick","west",65,364,283
+"Jen",2005,"December","foundation","west",36,424,359
+"Cristina",2004,"April","mascara","midwest",292,639,546
+"Colleen",2005,"January","eye liner","east",117,465,339
+"Betsy",2006,"April","eye liner","midwest",128,468,343
+"Emilee",2005,"January","eye liner","east",141,408,279
+"Hallagan",2005,"June","lip gloss","west",134,310,224
+"Emilee",2006,"June","mascara","midwest",84,384,324
+"Ashley",2004,"November","lipstick","east",151,506,381
+"Hallagan",2004,"November","mascara","midwest",107,458,346
+"Betsy",2005,"December","eye liner","west",174,450,317
+"Zaret",2005,"February","mascara","midwest",190,423,293
+"Betsy",2006,"April","lip gloss","west",90,498,373
+"Cici",2005,"March","eye liner","midwest",264,508,456
+"Ashley",2004,"June","eye liner","west",72,520,409
+"Betsy",2005,"April","mascara","south",64,442,329
+"Hallagan",2004,"November","foundation","west",197,442,311
+"Cristina",2004,"January","eye liner","south",219,557,414
+"Zaret",2005,"December","lip gloss","west",163,346,267
+"Colleen",2005,"November","eye liner","midwest",526,572,468
+"Colleen",2004,"November","foundation","midwest",651,569,472
+"Jen",2006,"August","eye liner","east",111,409,396
+"Colleen",2005,"August","mascara","west",131,419,313
+"Emilee",2005,"December","lip gloss","east",193,437,281
+"Jen",2004,"October","foundation","west",67,333,263
+"Hallagan",2005,"July","eye liner","west",152,387,290
+"Zaret",2004,"May","eye liner","west",406,608,500
+"Betsy",2006,"February","mascara","east",88,392,296
+"Zaret",2006,"August","mascara","east",210,570,446
+"Zaret",2006,"November","lip gloss","west",196,472,342
+"Betsy",2004,"April","foundation","south",259,525,466
+"Colleen",2004,"August","lip gloss","south",28,411,339
+"Cristina",2006,"December","foundation","west",141,521,348
+"Ashley",2005,"July","mascara","midwest",310,519,409
+"Betsy",2004,"November","lip gloss","east",100,378,329
+"Ashley",2004,"August","lip gloss","midwest",90,404,293
+"Jen",2005,"November","mascara","midwest",152,491,388
+"Colleen",2004,"June","lipstick","south",89,501,381
+"Jen",2006,"February","mascara","west",143,419,339
+"Jen",2006,"September","lip gloss","west",111,634,466
+"Zaret",2004,"November","mascara","east",48,504,370
+"Cici",2005,"November","foundation","south",195,386,310
+"Ashley",2004,"December","mascara","west",92,461,365
+"Ashley",2006,"December","lipstick","south",137,514,370
+"Ashley",2006,"November","mascara","midwest",185,530,412
+"Zaret",2005,"February","eye liner","south",336,643,564
+"Ashley",2004,"November","mascara","west",110,410,307
+"Zaret",2005,"February","mascara","midwest",246,600,480
+"Jen",2005,"November","eye liner","south",27,366,298
+"Cici",2005,"May","lip gloss","south",301,439,390
+"Cristina",2006,"December","mascara","east",45,466,380
+"Cristina",2006,"April","foundation","east",44,536,418
+"Betsy",2004,"January","lip gloss","midwest",222,556,492
+"Colleen",2005,"March","eye liner","midwest",141,459,361
+"Betsy",2005,"May","lipstick","midwest",49,409,321
+"Betsy",2004,"April","foundation","east",209,475,379
+"Hallagan",2006,"July","lip gloss","south",252,576,429
+"Jen",2006,"February","mascara","midwest",160,482,351
+"Ashley",2006,"September","lipstick","east",177,624,502
+"Jen",2004,"November","lipstick","west",362,507,385
+"Hallagan",2004,"September","lip gloss","west",110,337,269
+"Betsy",2005,"November","lip gloss","south",277,529,461
+"Hallagan",2006,"May","mascara","east",301,490,376
+"Cici",2005,"November","mascara","midwest",203,677,559
+"Hallagan",2004,"November","mascara","south",204,544,468
+"Cristina",2005,"April","foundation","west",148,311,254
+"Jen",2005,"November","lipstick","midwest",70,422,349
+"Cristina",2005,"April","eye liner","east",261,560,444
+"Jen",2004,"November","lip gloss","midwest",89,428,362
+"Betsy",2004,"February","mascara","east",107,352,242
+"Cici",2006,"April","lip gloss","east",122,289,240
+"Ashley",2004,"February","foundation","south",155,425,341
+"Cristina",2004,"February","lip gloss","south",108,419,307
+"Hallagan",2004,"November","mascara","south",117,455,379
+"Colleen",2005,"February","lipstick","midwest",274,509,438
+"Ashley",2004,"December","lipstick","west",135,587,486
+"Cici",2005,"July","foundation","west",219,450,340
+"Hallagan",2004,"November","eye liner","south",212,544,469
+"Ashley",2004,"November","mascara","south",412,625,573
+"Ashley",2005,"May","mascara","west",167,477,319
+"Zaret",2005,"November","lip gloss","west",216,528,494
+"Ashley",2004,"November","foundation","south",116,366,254
+"Emilee",2006,"December","foundation","west",203,558,435
+"Ashley",2005,"November","lip gloss","south",139,419,338
+"Cici",2004,"June","mascara","midwest",93,401,244
+"Hallagan",2004,"October","eye liner","midwest",110,357,236
+"Jen",2004,"November","mascara","south",114,409,359
+"Betsy",2006,"March","lip gloss","east",74,485,300
+"Zaret",2004,"June","lipstick","west",104,375,293
+"Hallagan",2005,"May","foundation","west",76,367,264
+"Cristina",2004,"March","lip gloss","west",176,441,328
+"Cici",2004,"September","lip gloss","west",181,493,415
+"Betsy",2006,"December","mascara","west",206,571,463
+"Jen",2006,"October","mascara","south",193,399,284
+"Cristina",2006,"August","mascara","east",89,396,351
+"Zaret",2006,"November","foundation","east",70,492,409
+"Zaret",2005,"January","lipstick","west",280,500,414
+"Hallagan",2004,"November","mascara","south",363,544,476
+"Hallagan",2004,"January","eye liner","south",315,555,484
+"Betsy",2006,"December","foundation","west",230,682,588
+"Hallagan",2006,"April","mascara","midwest",77,567,455
+"Cici",2005,"May","eye liner","midwest",107,557,399
+"Zaret",2005,"October","eye liner","west",219,582,458
+"Cristina",2006,"December","lip gloss","west",175,504,392
+"Zaret",2005,"December","eye liner","south",80,419,322
+"Betsy",2004,"July","lip gloss","west",79,307,262
+"Colleen",2006,"November","foundation","south",149,477,386
+"Colleen",2006,"September","eye liner","west",172,418,310
+"Cristina",2005,"March","foundation","south",174,369,267
+"Zaret",2004,"June","lipstick","south",345,404,356
+"Colleen",2004,"February","mascara","east",76,383,251
+"Cristina",2004,"April","lip gloss","south",157,503,404
+"Zaret",2004,"February","eye liner","south",179,322,222
+"Betsy",2004,"January","mascara","south",151,450,319
+"Cristina",2005,"June","foundation","south",347,637,552
+"Cici",2005,"November","foundation","midwest",136,479,402
+"Colleen",2005,"March","eye liner","south",247,632,573
+"Cristina",2005,"February","foundation","south",121,360,251
+"Hallagan",2004,"May","eye liner","west",195,539,449
+"Cici",2004,"May","lip gloss","south",246,572,475
+"Zaret",2004,"April","lip gloss","south",219,498,394
+"Emilee",2006,"September","lip gloss","west",304,510,416
+"Ashley",2006,"May","foundation","midwest",302,518,430
+"Jen",2006,"June","lipstick","south",76,614,499
+"Betsy",2005,"June","lip gloss","east",318,512,451
+"Jen",2004,"October","lip gloss","west",180,434,340
+"Cici",2005,"November","lip gloss","midwest",390,667,573
+"Ashley",2006,"August","lip gloss","east",193,384,270
+"Emilee",2005,"November","lip gloss","west",85,336,278
+"Zaret",2004,"November","mascara","east",232,494,405
+"Cristina",2004,"October","mascara","midwest",133,334,290
+"Cristina",2005,"January","lip gloss","midwest",264,517,413
+"Hallagan",2004,"March","lip gloss","midwest",55,433,316
+"Betsy",2006,"August","lip gloss","west",192,436,348
+"Zaret",2004,"November","foundation","east",66,386,261
+"Jen",2005,"November","mascara","east",163,379,320
+"Emilee",2004,"October","mascara","south",237,540,439
+"Betsy",2004,"October","lip gloss","east",86,432,332
+"Ashley",2004,"February","mascara","west",349,522,461
+"Colleen",2006,"November","mascara","east",211,558,428
+"Zaret",2004,"December","lip gloss","east",82,494,349
+"Hallagan",2006,"October","eye liner","west",504,560,396
+"Betsy",2005,"August","lipstick","south",163,423,323
+"Cristina",2006,"January","eye liner","west",287,743,680
+"Cristina",2004,"November","eye liner","south",218,629,518
+"Zaret",2006,"April","eye liner","midwest",570,658,565
+"Jen",2005,"September","mascara","west",196,530,434
+"Emilee",2005,"December","mascara","midwest",68,373,265
+"Ashley",2006,"December","eye liner","midwest",184,503,427
+"Hallagan",2005,"March","lipstick","east",115,383,266
+"Cristina",2006,"July","lip gloss","midwest",192,461,359
+"Jen",2006,"April","foundation","west",207,475,383
+"Zaret",2006,"October","foundation","east",404,464,354
+"Cristina",2004,"December","mascara","west",158,519,411
+"Emilee",2006,"October","mascara","east",72,349,205
+"Cici",2006,"April","eye liner","west",181,463,339
+"Zaret",2005,"October","mascara","west",284,550,445
+"Cici",2004,"May","eye liner","south",178,521,393
+"Colleen",2006,"August","mascara","midwest",79,352,262
+"Cristina",2005,"June","foundation","midwest",505,523,423
+"Ashley",2005,"June","lipstick","south",315,668,512
+"Zaret",2006,"December","foundation","west",98,364,265
+"Hallagan",2006,"January","foundation","west",212,671,588
+"Cristina",2004,"September","lip gloss","west",257,702,581
+"Cici",2005,"December","foundation","south",125,459,357
+"Ashley",2006,"October","lipstick","south",199,314,210
+"Cici",2004,"April","eye liner","east",549,613,546
+"Colleen",2004,"June","mascara","west",387,473,401
+"Jen",2006,"October","lip gloss","west",71,418,324
+"Hallagan",2006,"October","lipstick","midwest",115,381,258
+"Zaret",2005,"November","eye liner","west",176,505,409
+"Colleen",2006,"December","mascara","west",84,423,326
+"Emilee",2006,"December","mascara","midwest",208,324,289
+"Colleen",2006,"December","foundation","west",303,360,257
+"Colleen",2004,"December","mascara","east",131,455,338
+"Zaret",2004,"July","eye liner","east",100,464,339
+"Ashley",2004,"September","mascara","west",226,435,398
+"Jen",2005,"August","foundation","midwest",150,504,414
+"Zaret",2006,"November","lipstick","east",165,385,269
+"Cristina",2006,"December","lipstick","west",165,477,390
+"Zaret",2006,"October","lip gloss","west",279,579,514
+"Zaret",2005,"May","lip gloss","south",231,536,431
+"Cici",2006,"January","foundation","east",275,631,513
+"Cici",2004,"December","eye liner","south",139,535,387
+"Betsy",2006,"July","foundation","east",322,714,615
+"Zaret",2004,"November","foundation","west",402,709,575
+"Zaret",2005,"August","foundation","south",161,447,372
+"Jen",2004,"January","mascara","east",89,463,351
+"Betsy",2006,"June","eye liner","west",89,347,275
+"Ashley",2005,"June","foundation","east",248,610,530
+"Ashley",2005,"October","eye liner","west",188,316,236
+"Cristina",2005,"December","mascara","east",185,324,255
+"Betsy",2004,"November","eye liner","west",364,629,615
+"Zaret",2004,"April","lipstick","east",22,396,287
+"Emilee",2006,"May","eye liner","west",175,351,242
+"Ashley",2005,"December","lipstick","east",86,265,184
+"Cristina",2006,"August","foundation","east",280,412,311
+"Ashley",2005,"May","eye liner","east",470,556,413
+"Betsy",2005,"June","foundation","south",194,455,340
+"Cici",2006,"May","mascara","south",200,386,271
+"Colleen",2004,"July","eye liner","west",69,366,300
+"Cici",2005,"December","mascara","midwest",36,468,341
+"Emilee",2006,"March","eye liner","west",133,397,302
+"Betsy",2005,"December","eye liner","west",207,591,467
+"Betsy",2006,"September","foundation","midwest",321,519,412
+"Betsy",2005,"January","eye liner","south",129,496,335
+"Jen",2005,"May","lip gloss","west",140,412,307
+"Ashley",2004,"April","mascara","south",198,479,424
+"Cristina",2005,"January","mascara","west",80,446,356
+"Betsy",2006,"January","lip gloss","south",383,401,350
+"Colleen",2004,"November","foundation","west",207,528,440
+"Ashley",2005,"December","foundation","west",163,451,323
+"Colleen",2004,"December","foundation","west",93,502,371
+"Betsy",2006,"May","foundation","east",205,686,602
+"Ashley",2005,"October","lip gloss","west",29,412,304
+"Betsy",2006,"October","foundation","west",123,489,412
+"Zaret",2005,"November","eye liner","west",370,369,305
+"Zaret",2005,"October","mascara","midwest",153,364,268
+"Zaret",2004,"December","eye liner","midwest",224,549,451
+"Betsy",2006,"June","lip gloss","east",265,577,454
+"Hallagan",2005,"November","eye liner","midwest",43,561,431
+"Cici",2004,"January","lip gloss","west",314,651,580
+"Emilee",2006,"January","lip gloss","west",167,445,337
+"Ashley",2006,"March","foundation","midwest",99,427,305
+"Betsy",2004,"December","mascara","west",174,370,275
+"Betsy",2005,"December","foundation","east",221,580,452
+"Colleen",2005,"July","lip gloss","south",149,299,211
+"Colleen",2005,"November","lip gloss","west",113,466,401
+"Jen",2006,"February","eye liner","south",210,446,340
+"Betsy",2006,"November","eye liner","midwest",158,367,311
+"Emilee",2006,"August","foundation","south",336,545,432
+"Betsy",2004,"November","lip gloss","east",216,670,512
+"Emilee",2005,"November","foundation","east",275,425,365
+"Cristina",2006,"December","eye liner","south",124,309,287
+"Ashley",2004,"October","mascara","south",153,409,303
+"Hallagan",2005,"March","mascara","south",199,447,309
+"Colleen",2004,"July","mascara","south",98,352,255
+"Cristina",2004,"August","eye liner","south",148,737,632
+"Colleen",2004,"June","eye liner","midwest",181,413,334
+"Emilee",2006,"October","lipstick","south",313,789,692
+"Hallagan",2004,"May","foundation","east",228,678,579
+"Cristina",2005,"January","eye liner","south",251,515,403
+"Zaret",2004,"April","eye liner","west",139,491,387
+"Ashley",2006,"January","lipstick","south",161,423,317
+"Betsy",2006,"April","lip gloss","west",115,502,376
+"Zaret",2004,"November","lipstick","midwest",153,417,273
+"Hallagan",2006,"October","eye liner","west",432,553,473
+"Cristina",2005,"July","lip gloss","west",220,600,523
+"Betsy",2006,"October","eye liner","west",138,323,184
+"Zaret",2006,"November","lip gloss","midwest",100,444,345
+"Jen",2006,"May","eye liner","south",89,406,275
+"Hallagan",2004,"November","lipstick","south",253,695,617
+"Cici",2004,"March","lipstick","west",126,447,327
+"Emilee",2004,"November","foundation","west",72,343,246
+"Hallagan",2004,"December","eye liner","midwest",169,416,260
+"Cici",2004,"July","lip gloss","south",40,436,341
+"Cristina",2005,"December","foundation","west",237,582,494
+"Jen",2005,"August","lipstick","west",102,396,305
+"Ashley",2004,"June","eye liner","midwest",420,634,528
+"Cici",2005,"July","mascara","south",115,458,326
+"Hallagan",2005,"August","lipstick","south",157,436,367
+"Ashley",2005,"July","eye liner","west",60,454,337
+"Betsy",2004,"February","foundation","south",132,454,381
+"Zaret",2004,"November","mascara","west",190,545,435
+"Zaret",2005,"November","lipstick","west",52,475,338
+"Zaret",2006,"December","eye liner","west",110,406,301
+"Cristina",2004,"March","lip gloss","west",130,323,290
+"Cici",2004,"December","eye liner","east",189,365,254
+"Zaret",2006,"October","lip gloss","west",191,584,446
+"Hallagan",2004,"February","eye liner","west",169,431,324
+"Cici",2005,"December","eye liner","east",331,527,422
+"Emilee",2004,"October","lip gloss","east",133,300,220
+"Ashley",2004,"January","eye liner","south",95,385,335
+"Zaret",2006,"July","eye liner","west",123,603,487
+"Colleen",2004,"March","foundation","south",196,504,407
+"Cici",2004,"January","lip gloss","south",81,473,350
+"Colleen",2006,"November","mascara","midwest",190,314,190
+"Zaret",2006,"February","eye liner","south",468,559,471
+"Colleen",2004,"January","mascara","west",140,440,385
+"Cristina",2004,"October","lip gloss","south",88,312,271
+"Betsy",2005,"August","lip gloss","west",285,509,388
+"Emilee",2004,"February","lip gloss","south",121,513,408
+"Cristina",2006,"May","eye liner","west",327,526,377
+"Zaret",2004,"December","eye liner","east",101,626,471
+"Emilee",2005,"November","foundation","midwest",329,586,445
+"Emilee",2004,"November","mascara","midwest",222,451,360
+"Cici",2006,"October","foundation","south",131,611,473
+"Hallagan",2005,"November","mascara","west",133,288,205
+"Hallagan",2005,"May","eye liner","south",97,407,275
+"Cici",2005,"January","lipstick","west",223,629,532
+"Cici",2006,"July","mascara","east",102,522,448
+"Cristina",2005,"September","mascara","south",236,487,372
+"Zaret",2004,"November","eye liner","west",218,472,344
+"Colleen",2004,"December","eye liner","west",330,486,440
+"Zaret",2006,"February","foundation","south",172,392,295
+"Betsy",2005,"March","mascara","midwest",58,666,556
+"Hallagan",2005,"November","foundation","west",229,559,458
+"Colleen",2005,"May","lip gloss","south",194,436,311
+"Colleen",2006,"November","foundation","east",126,408,328
+"Ashley",2004,"November","eye liner","east",188,495,339
+"Cici",2005,"December","mascara","west",214,822,680
+"Cristina",2005,"October","foundation","south",148,484,370
+"Jen",2004,"October","mascara","east",46,432,327
+"Colleen",2006,"July","lip gloss","south",81,559,466
+"Betsy",2006,"December","foundation","west",132,334,235
+"Hallagan",2005,"August","foundation","west",269,593,490
+"Ashley",2004,"September","lip gloss","midwest",212,460,376
+"Ashley",2005,"December","lip gloss","west",121,421,342
+"Zaret",2005,"July","mascara","midwest",72,417,323
+"Colleen",2006,"July","lip gloss","east",129,520,437
+"Emilee",2005,"December","mascara","west",122,472,371
+"Emilee",2005,"February","lip gloss","east",161,400,310
+"Hallagan",2006,"June","mascara","south",235,593,553
+"Cici",2006,"January","foundation","south",203,625,526
+"Hallagan",2006,"November","foundation","west",69,631,495
+"Cici",2005,"June","lipstick","midwest",100,385,311
+"Hallagan",2005,"February","eye liner","west",108,357,229
+"Cici",2006,"December","eye liner","south",297,492,426
+"Emilee",2005,"November","mascara","south",253,545,419
+"Cristina",2006,"February","lip gloss","midwest",232,363,242
+"Cici",2006,"November","lipstick","west",93,436,334
+"Jen",2004,"January","lip gloss","south",211,397,303
+"Hallagan",2005,"November","lip gloss","south",66,588,468
+"Emilee",2004,"June","lip gloss","west",134,535,416
+"Cristina",2005,"December","foundation","west",261,587,494
+"Colleen",2006,"November","eye liner","midwest",83,503,418
+"Zaret",2005,"June","lipstick","west",86,348,267
+"Cristina",2004,"June","eye liner","east",291,556,460
+"Emilee",2004,"November","foundation","east",205,473,355
+"Betsy",2005,"December","eye liner","west",138,384,292
+"Zaret",2004,"January","mascara","midwest",40,378,306
+"Colleen",2004,"April","eye liner","west",314,506,389
+"Hallagan",2005,"November","eye liner","midwest",102,522,406
+"Zaret",2006,"November","eye liner","south",101,284,211
+"Zaret",2004,"July","foundation","east",169,506,379
+"Zaret",2005,"February","mascara","west",182,459,387
+"Jen",2004,"November","eye liner","midwest",32,333,256
+"Hallagan",2004,"November","eye liner","midwest",257,415,294
+"Hallagan",2005,"December","foundation","south",78,280,277
+"Cici",2006,"February","mascara","midwest",179,421,299
+"Cici",2004,"February","eye liner","east",192,373,270
+"Ashley",2006,"April","mascara","midwest",97,248,175
+"Emilee",2005,"November","eye liner","west",104,438,319
+"Emilee",2004,"April","eye liner","west",76,539,411
+"Cristina",2004,"October","eye liner","midwest",79,319,265
+"Hallagan",2005,"December","eye liner","west",168,562,451
+"Emilee",2005,"January","eye liner","east",47,387,251
+"Emilee",2006,"July","eye liner","east",270,486,423
+"Betsy",2005,"January","lipstick","midwest",102,459,326
+"Betsy",2005,"March","foundation","east",91,440,336
+"Zaret",2005,"May","eye liner","midwest",211,552,447
+"Cristina",2005,"August","eye liner","south",22,491,362
+"Cici",2006,"January","foundation","south",372,550,413
+"Cici",2004,"May","mascara","east",110,558,398
+"Ashley",2005,"March","mascara","south",173,613,500
+"Hallagan",2004,"November","lip gloss","west",77,354,278
+"Cici",2006,"September","mascara","midwest",180,357,220
+"Cristina",2004,"October","lip gloss","south",91,572,544
+"Ashley",2004,"October","mascara","east",52,549,406
+"Cristina",2004,"February","eye liner","midwest",275,648,531
+"Zaret",2005,"August","lip gloss","midwest",270,464,415
+"Cici",2006,"August","foundation","east",89,481,410
+"Zaret",2006,"December","eye liner","west",182,558,405
+"Jen",2004,"December","lipstick","midwest",347,521,409
+"Cristina",2005,"October","mascara","south",463,449,335
+"Cristina",2005,"February","eye liner","west",210,524,381
+"Hallagan",2005,"December","lip gloss","east",128,494,427
+"Cristina",2004,"November","mascara","west",259,519,415
+"Colleen",2004,"April","eye liner","midwest",227,485,387
+"Ashley",2006,"April","mascara","west",243,510,433
+"Colleen",2004,"November","mascara","east",133,449,299
+"Emilee",2005,"February","foundation","midwest",262,612,507
+"Zaret",2006,"November","lipstick","west",157,387,307
+"Ashley",2004,"May","eye liner","east",275,510,457
+"Betsy",2004,"December","lipstick","west",249,560,435
+"Betsy",2004,"January","lip gloss","west",85,513,382
+"Betsy",2005,"January","eye liner","east",225,601,444
+"Cici",2004,"November","lipstick","west",181,456,328
+"Emilee",2005,"September","eye liner","midwest",133,364,288
+"Cristina",2005,"December","lip gloss","west",214,514,401
+"Colleen",2004,"May","foundation","west",236,526,471
+"Hallagan",2005,"June","foundation","east",231,473,378
+"Ashley",2005,"November","eye liner","west",85,395,312
+"Cici",2005,"May","lip gloss","south",95,418,285
+"Cristina",2006,"October","foundation","midwest",240,571,492
+"Hallagan",2005,"January","lip gloss","east",192,434,309
+"Hallagan",2005,"February","foundation","east",267,568,499
+"Emilee",2006,"June","foundation","midwest",508,753,595
+"Cici",2004,"September","eye liner","south",206,560,520
+"Colleen",2004,"December","foundation","east",134,536,450
+"Jen",2006,"June","eye liner","midwest",327,500,408
+"Colleen",2006,"July","eye liner","south",224,582,493
+"Hallagan",2005,"June","lip gloss","west",129,373,268
+"Jen",2006,"October","foundation","east",173,442,355
+"Emilee",2004,"April","lip gloss","east",271,622,538
+"Cristina",2005,"May","mascara","midwest",134,488,405
+"Hallagan",2004,"February","foundation","east",276,405,328
+"Ashley",2004,"May","lip gloss","south",249,544,467
+"Ashley",2006,"November","lip gloss","west",42,433,323
+"Hallagan",2004,"June","mascara","east",216,449,430
+"Cristina",2004,"October","eye liner","south",260,512,422
+"Jen",2006,"June","mascara","west",382,452,379
+"Cici",2005,"March","foundation","south",88,484,398
+"Betsy",2004,"March","foundation","south",157,537,412
+"Ashley",2004,"December","mascara","west",28,267,156
+"Ashley",2005,"November","eye liner","south",154,409,285
+"Ashley",2004,"March","lipstick","south",78,524,371
+"Cici",2004,"November","foundation","south",169,346,274
+"Emilee",2006,"June","mascara","west",124,488,419
+"Colleen",2006,"September","foundation","east",140,496,388
+"Zaret",2005,"December","eye liner","west",40,491,393
+"Colleen",2005,"October","mascara","east",90,276,167
+"Colleen",2004,"January","lip gloss","midwest",137,431,366
+"Colleen",2004,"February","lipstick","midwest",412,448,359
+"Zaret",2006,"December","foundation","east",241,440,323
+"Colleen",2005,"December","foundation","west",209,532,405
+"Hallagan",2004,"June","lip gloss","west",152,463,344
+"Betsy",2004,"October","mascara","midwest",185,420,317
+"Cristina",2005,"December","lipstick","west",52,487,365
+"Zaret",2005,"March","mascara","east",105,316,229
+"Hallagan",2004,"October","lip gloss","south",173,406,356
+"Cristina",2006,"October","lipstick","south",104,437,342
+"Zaret",2004,"October","foundation","midwest",158,427,395
+"Hallagan",2004,"May","lipstick","south",227,705,560
+"Cici",2005,"July","lipstick","south",328,598,519
+"Hallagan",2005,"December","eye liner","west",109,292,186
+"Jen",2004,"October","eye liner","south",123,450,335
+"Cici",2005,"May","foundation","midwest",189,342,317
+"Cici",2006,"April","eye liner","west",265,543,403
+"Cici",2006,"November","lip gloss","east",17,381,301
+"Cici",2005,"July","foundation","east",228,635,565
+"Colleen",2006,"March","lip gloss","west",216,389,338
+"Jen",2005,"February","eye liner","south",283,630,520
+"Emilee",2005,"December","lip gloss","west",64,556,385
+"Hallagan",2006,"September","mascara","east",81,446,401
+"Cici",2006,"November","lip gloss","midwest",271,509,399
+"Jen",2006,"April","mascara","south",363,563,503
+"Zaret",2005,"April","foundation","east",95,439,323
+"Jen",2005,"March","mascara","midwest",110,333,265
+"Ashley",2005,"April","eye liner","midwest",164,459,396
+"Emilee",2006,"June","lip gloss","east",197,438,317
+"Ashley",2005,"August","foundation","west",96,364,319
+"Cici",2005,"November","lipstick","south",92,476,313
+"Zaret",2004,"May","foundation","south",141,376,295
+"Zaret",2005,"May","mascara","east",299,453,409
+"Colleen",2005,"July","eye liner","west",166,394,306
+"Emilee",2006,"July","eye liner","east",92,437,356
+"Ashley",2006,"November","lip gloss","midwest",62,557,415
+"Colleen",2004,"July","mascara","south",285,517,502
+"Cristina",2004,"June","eye liner","east",87,451,378
+"Emilee",2004,"November","eye liner","midwest",126,441,335
+"Betsy",2005,"November","lipstick","east",230,465,366
+"Cristina",2006,"November","mascara","west",64,427,346
+"Betsy",2006,"January","lipstick","south",178,372,275
+"Cristina",2006,"April","lip gloss","midwest",282,633,549
+"Betsy",2005,"December","eye liner","east",50,494,413
+"Cici",2004,"November","lip gloss","south",229,454,378
+"Ashley",2006,"November","eye liner","east",73,417,258
+"Emilee",2005,"February","eye liner","midwest",117,377,308
+"Jen",2005,"February","foundation","east",169,512,411
+"Jen",2004,"October","mascara","south",127,475,377
+"Ashley",2004,"February","mascara","west",306,460,398
+"Cici",2006,"November","lip gloss","east",246,564,465
+"Betsy",2004,"August","mascara","east",75,498,394
+"Cici",2004,"November","mascara","south",71,504,351
+"Zaret",2005,"March","eye liner","midwest",289,540,405
+"Emilee",2005,"June","mascara","west",289,510,443
+"Hallagan",2004,"April","foundation","west",181,420,264
+"Ashley",2004,"November","eye liner","east",148,393,267
+"Cristina",2005,"November","foundation","west",121,451,344
+"Emilee",2006,"November","eye liner","midwest",307,653,526
+"Cici",2006,"December","foundation","east",141,404,288
+"Colleen",2006,"June","lipstick","south",106,456,342
+"Jen",2004,"May","mascara","west",287,579,473
+"Cristina",2004,"November","mascara","midwest",39,419,286
+"Cici",2006,"December","lip gloss","south",180,357,298
+"Emilee",2004,"July","foundation","south",107,463,397
+"Ashley",2006,"August","lip gloss","south",111,412,310
+"Emilee",2004,"February","eye liner","west",108,450,364
+"Zaret",2005,"December","foundation","west",244,553,484
+"Betsy",2006,"May","lip gloss","midwest",238,474,391
+"Zaret",2004,"November","lip gloss","south",102,425,262
+"Cristina",2006,"December","mascara","midwest",124,566,411
+"Ashley",2005,"August","eye liner","south",400,580,459
+"Hallagan",2005,"June","lip gloss","midwest",406,427,318
+"Cici",2005,"August","mascara","midwest",398,579,455
+"Cici",2006,"June","foundation","south",109,519,390
+"Emilee",2006,"June","mascara","midwest",341,488,401
+"Zaret",2004,"September","foundation","east",68,485,412
+"Jen",2005,"December","mascara","west",203,581,435
+"Ashley",2006,"November","foundation","south",351,484,454
+"Betsy",2006,"August","lip gloss","west",105,519,374
+"Emilee",2005,"December","lip gloss","east",160,470,342
+"Colleen",2004,"July","foundation","midwest",201,596,472
+"Cici",2005,"November","foundation","east",271,624,510
+"Betsy",2005,"December","foundation","west",44,467,352
+"Cristina",2004,"December","lip gloss","south",47,328,283
+"Betsy",2005,"December","eye liner","west",28,457,341
+"Colleen",2006,"March","mascara","east",147,410,331
+"Emilee",2005,"April","mascara","east",296,646,491
+"Emilee",2004,"May","foundation","south",95,401,256
+"Ashley",2005,"February","lip gloss","east",193,413,336
+"Cici",2006,"October","lip gloss","west",106,341,246
+"Betsy",2006,"September","lipstick","east",247,575,509
+"Cici",2006,"July","mascara","midwest",197,465,365
+"Emilee",2006,"November","eye liner","west",96,489,379
+"Betsy",2006,"January","lip gloss","east",184,371,292
+"Jen",2005,"August","lipstick","east",134,458,369
+"Cici",2004,"May","lip gloss","midwest",117,284,213
+"Cristina",2005,"November","lip gloss","west",276,555,473
+"Emilee",2004,"December","lip gloss","west",353,504,390
+"Colleen",2005,"November","eye liner","south",154,399,306
+"Hallagan",2005,"October","eye liner","midwest",499,671,540
+"Cici",2004,"January","lip gloss","west",338,609,503
+"Emilee",2005,"December","mascara","south",228,551,457
+"Ashley",2005,"December","lip gloss","west",303,531,375
+"Jen",2006,"October","eye liner","midwest",139,474,380
+"Ashley",2006,"September","lip gloss","south",132,514,384
+"Cristina",2004,"November","lipstick","midwest",82,429,353
+"Betsy",2006,"December","lip gloss","east",67,599,457
+"Hallagan",2005,"May","foundation","south",185,404,303
+"Emilee",2006,"December","foundation","west",91,319,279
+"Emilee",2004,"November","lip gloss","midwest",86,548,417
+"Cici",2006,"November","lipstick","south",157,419,275
+"Ashley",2004,"December","foundation","east",45,342,297
+"Cristina",2004,"December","foundation","south",138,382,274
+"Ashley",2004,"August","mascara","east",236,552,433
+"Cristina",2004,"November","lip gloss","midwest",212,586,507
+"Cristina",2004,"July","lip gloss","south",38,438,342
+"Zaret",2004,"March","lipstick","south",54,368,270
+"Cristina",2006,"May","lipstick","south",329,611,507
+"Hallagan",2006,"April","eye liner","west",317,581,519
+"Cici",2006,"May","mascara","south",100,426,303
+"Cici",2005,"November","foundation","west",236,703,547
+"Betsy",2004,"March","lipstick","midwest",348,552,438
+"Betsy",2006,"April","mascara","south",263,649,553
+"Betsy",2005,"March","lipstick","south",111,485,394
+"Betsy",2004,"January","foundation","west",110,422,360
+"Ashley",2004,"January","foundation","west",98,381,244
+"Zaret",2006,"September","eye liner","midwest",220,517,409
+"Cristina",2005,"November","lip gloss","east",365,428,305
+"Jen",2006,"May","lipstick","east",140,438,392
+"Emilee",2005,"April","lip gloss","west",179,440,329
+"Cici",2005,"June","lip gloss","south",462,381,292
+"Zaret",2006,"June","lip gloss","midwest",75,532,467
+"Betsy",2006,"February","lipstick","east",53,492,362
+"Cici",2006,"August","lipstick","east",412,432,380
+"Ashley",2004,"September","mascara","south",339,435,319
+"Jen",2005,"June","eye liner","east",129,347,306
+"Hallagan",2006,"May","mascara","east",75,441,301
+"Cici",2006,"August","lip gloss","south",182,398,258
+"Cici",2005,"March","lip gloss","south",106,426,375
+"Zaret",2005,"November","mascara","west",52,413,349
+"Zaret",2005,"January","lip gloss","east",162,424,338
+"Zaret",2006,"March","eye liner","east",147,515,438
+"Zaret",2005,"May","foundation","south",337,495,435
+"Zaret",2005,"November","eye liner","west",60,457,340
+"Cristina",2005,"September","foundation","east",252,453,362
+"Betsy",2004,"January","foundation","east",230,652,575
+"Cristina",2005,"November","mascara","west",171,528,401
+"Ashley",2005,"June","foundation","south",45,482,357
+"Emilee",2006,"March","mascara","south",71,279,199
+"Colleen",2004,"November","lip gloss","midwest",115,478,416
+"Colleen",2005,"July","mascara","west",399,530,417
+"Cristina",2004,"May","foundation","south",288,483,423
+"Cristina",2004,"July","foundation","south",202,719,625
+"Jen",2006,"February","lip gloss","midwest",380,718,626
+"Emilee",2004,"September","mascara","south",288,645,523
+"Betsy",2006,"June","foundation","west",52,381,305
+"Zaret",2005,"July","lip gloss","east",218,597,500
+"Jen",2004,"May","mascara","south",328,504,395
+"Ashley",2004,"April","lip gloss","midwest",448,517,353
+"Ashley",2004,"September","lipstick","south",196,316,229
+"Cici",2004,"November","lip gloss","east",303,575,430
+"Cristina",2006,"February","mascara","midwest",285,520,384
+"Emilee",2005,"July","lip gloss","east",126,482,383
+"Hallagan",2006,"February","mascara","south",78,597,484
+"Cici",2004,"May","foundation","midwest",318,388,354
+"Ashley",2005,"December","foundation","west",263,589,461
+"Colleen",2004,"August","lipstick","south",190,338,236
+"Emilee",2004,"August","lip gloss","east",151,401,345
+"Cristina",2006,"March","eye liner","midwest",128,426,382
+"Hallagan",2005,"December","lip gloss","south",89,381,279
+"Zaret",2006,"March","eye liner","east",18,463,331
+"Emilee",2004,"December","eye liner","west",168,460,350
+"Colleen",2006,"July","foundation","south",195,437,350
+"Cristina",2006,"October","foundation","south",82,494,404
+"Cristina",2006,"August","mascara","east",168,486,372
+"Hallagan",2005,"April","eye liner","south",274,561,421
+"Betsy",2005,"October","lipstick","east",263,692,570
+"Hallagan",2006,"November","mascara","west",216,552,477
+"Cici",2005,"January","mascara","midwest",98,464,352
+"Colleen",2004,"May","foundation","south",129,511,399
+"Cici",2004,"November","foundation","south",81,609,538
+"Colleen",2005,"January","lip gloss","south",140,538,436
+"Cristina",2004,"February","lipstick","midwest",190,363,223
+"Colleen",2004,"September","lip gloss","west",63,331,226
+"Cici",2004,"September","eye liner","east",140,482,377
+"Betsy",2004,"May","lip gloss","south",112,201,157
+"Ashley",2006,"December","eye liner","west",67,336,279
+"Emilee",2006,"December","lip gloss","south",66,479,333
+"Emilee",2005,"October","foundation","east",234,498,371
+"Jen",2004,"March","foundation","midwest",162,402,301
+"Betsy",2004,"July","lip gloss","east",37,459,357
+"Hallagan",2006,"November","lip gloss","west",177,427,310
+"Ashley",2006,"May","lip gloss","west",297,473,316
+"Cristina",2005,"November","mascara","west",101,331,249
+"Zaret",2005,"April","lip gloss","midwest",441,456,315
+"Colleen",2005,"July","eye liner","west",79,358,280
+"Emilee",2006,"November","eye liner","west",317,458,384
+"Cici",2005,"June","foundation","east",394,562,438
+"Betsy",2005,"April","foundation","east",319,371,290
+"Cici",2006,"December","mascara","west",182,464,368
+"Cici",2004,"July","foundation","midwest",98,531,478
+"Colleen",2004,"May","lip gloss","east",91,345,263
+"Emilee",2005,"November","eye liner","east",65,448,370
+"Ashley",2005,"February","foundation","east",95,435,281
+"Colleen",2005,"November","lip gloss","west",114,514,404
+"Zaret",2004,"January","lipstick","west",202,659,546
+"Hallagan",2006,"November","eye liner","south",482,410,354
+"Cristina",2006,"June","eye liner","midwest",225,463,382
